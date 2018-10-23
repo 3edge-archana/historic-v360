@@ -1,0 +1,220 @@
+Location,_id,cam_id,feed,zone
+"",5ba9618143d98a12952f6b58,130,rtsp://admin:adnecit123@172.25.0.131:554,A
+"",5ba9618143d98a12952f6b59,131,rtsp://admin:adnecit123@172.25.0.132:554,A
+"",5ba9618143d98a12952f6b5a,132,rtsp://admin:adnecit123@172.25.0.133:554,A
+"",5ba9618143d98a12952f6b5b,133,rtsp://admin:adnecit123@172.25.0.134:554,A
+"",5ba9618143d98a12952f6b5c,134,rtsp://admin:adnecit123@172.25.0.135:554,A
+"",5ba9618143d98a12952f6b5d,135,rtsp://admin:adnecit123@172.25.0.136:554,A
+Grand Stand,5ba9618143d98a12952f6b3f,105,rtsp://admin:adnecit123@172.25.0.106:554,A
+Grand Stand,5ba9618143d98a12952f6b40,106,rtsp://admin:adnecit123@172.25.0.107:554,A
+Grand Stand,5ba9618143d98a12952f6b41,107,rtsp://admin:adnecit123@172.25.0.108:554,A
+Grand Stand,5ba9618143d98a12952f6b42,108,rtsp://admin:adnecit123@172.25.0.109:554,A
+Grand Stand,5ba9618143d98a12952f6b43,109,rtsp://admin:adnecit123@172.25.0.110:554,A
+Grand Stand,5ba9618143d98a12952f6b44,110,rtsp://admin:adnecit123@172.25.0.111:554,A
+Grand Stand,5ba9618143d98a12952f6b45,111,rtsp://admin:adnecit123@172.25.0.112:554,A
+Atrium A Side,5ba9618143d98a12952f6b46,112,rtsp://admin:adnecit123@172.25.0.113:554,A
+Atrium A Side,5ba9618143d98a12952f6b47,113,rtsp://admin:adnecit123@172.25.0.114:554,A
+Atrium A Side,5ba9618143d98a12952f6b48,114,rtsp://admin:adnecit123@172.25.0.115:554,A
+Atrium B Side,5ba9618143d98a12952f6b49,115,rtsp://admin:adnecit123@172.25.0.116:554,A
+Atrium B Side,5ba9618143d98a12952f6b4a,116,rtsp://admin:adnecit123@172.25.0.117:554,A
+Atrium B Side,5ba9618143d98a12952f6b4b,117,rtsp://admin:adnecit123@172.25.0.118:554,A
+Hall 2 Entrance,5ba9618143d98a12952f6b4c,118,rtsp://admin:adnecit123@172.25.0.119:554,A
+Organizer Office,5ba9618143d98a12952f6b4d,119,rtsp://admin:adnecit123@172.25.0.120:554,A
+Organizer Office,5ba9618143d98a12952f6b4e,120,rtsp://admin:adnecit123@172.25.0.121:554,A
+Organizer Office,5ba9618143d98a12952f6b4f,121,rtsp://admin:adnecit123@172.25.0.122:554,A
+First Aid Point,5ba9618143d98a12952f6b50,122,rtsp://admin:adnecit123@172.25.0.123:554,A
+Organizer Office,5ba9618143d98a12952f6b51,123,rtsp://admin:adnecit123@172.25.0.124:554,A
+Organizer Office,5ba9618143d98a12952f6b52,124,rtsp://admin:adnecit123@172.25.0.125:554,A
+ICC 2 Front Side,5ba9618143d98a12952f6b53,125,rtsp://admin:adnecit123@172.25.0.126:554,A
+ICC END,5ba9618143d98a12952f6b54,126,rtsp://admin:adnecit123@172.25.0.127:554,A
+2nd Phase FF,5ba9618143d98a12952f6b55,127,rtsp://admin:adnecit123@172.25.0.128:554,A
+3rd Phase FF,5ba9618143d98a12952f6b56,128,rtsp://admin:adnecit123@172.25.0.129:554,A
+4th Phase FF,5ba9618143d98a12952f6b57,129,rtsp://admin:adnecit123@172.25.0.130:554,A
+Capital Suite 7 Front,5ba9618143d98a12952f6b5e,136,rtsp://admin:adnecit123@172.25.0.137:554,A
+Capital Suit 2,5ba9618143d98a12952f6b5f,137,rtsp://admin:adnecit123@172.25.0.138:554,A
+Capital Suite 1,5ba9618143d98a12952f6b60,138,rtsp://admin:adnecit123@172.25.0.139:554,A
+Atrium FF B Side,5ba9618143d98a12952f6b61,139,rtsp://admin:adnecit123@172.25.0.140:554,A
+Atrium FF A Side,5ba9618143d98a12952f6b62,140,rtsp://admin:adnecit123@172.25.0.141:554,A
+Entrance Hall 1,5ba9618143d98a12952f6b63,141,rtsp://admin:adnecit123@172.25.0.142:554,A
+Entrance Hall 1,5ba9618143d98a12952f6b64,142,rtsp://admin:adnecit123@172.25.0.143:554,A
+Entrance Hall 2,5ba9618143d98a12952f6b65,143,rtsp://admin:adnecit123@172.25.0.144:554,A
+Entrance Hall 2,5ba9618143d98a12952f6b66,144,rtsp://admin:adnecit123@172.25.0.145:554,A
+Entrance Hall 3,5ba9618143d98a12952f6b67,145,rtsp://admin:adnecit123@172.25.0.146:554,A
+Entrance Hall 3,5ba9618143d98a12952f6b68,146,rtsp://admin:adnecit123@172.25.0.147:554,A
+Entrance Hall 4,5ba9618143d98a12952f6b69,147,rtsp://admin:adnecit123@172.25.0.148:554,A
+Entrance Hall 4,5ba9618143d98a12952f6b6a,148,rtsp://admin:adnecit123@172.25.0.149:554,A
+Entrance Hall 5,5ba9618143d98a12952f6b6b,149,rtsp://admin:adnecit123@172.25.0.150:554,A
+Entrance hall 5,5ba9618143d98a12952f6b6c,150,rtsp://admin:adnecit123@172.25.0.151:554,A
+Entrance Hall 6,5ba9618143d98a12952f6b6d,151,rtsp://admin:adnecit123@172.25.0.152:554,A
+Entrance Hall 6,5ba9618143d98a12952f6b6e,152,rtsp://admin:adnecit123@172.25.0.153:554,A
+Entrance Hall 7,5ba9618143d98a12952f6b6f,153,rtsp://admin:adnecit123@172.25.0.154:554,A
+Entrance Hall 7,5ba9618143d98a12952f6b70,154,rtsp://admin:adnecit123@172.25.0.155:554,A
+Entrance Hall 7,5ba9618143d98a12952f6b71,155,rtsp://admin:adnecit123@172.25.0.156:554,A
+Entrance Hall 8,5ba9618143d98a12952f6b72,156,rtsp://admin:adnecit123@172.25.0.157:554,A
+Entrance Hall 8,5ba9618143d98a12952f6b73,157,rtsp://admin:adnecit123@172.25.0.158:554,A
+Entrance Hall 9,5ba9618143d98a12952f6b74,158,rtsp://admin:adnecit123@172.25.0.159:554,A
+Entrance Hall 9,5ba9618143d98a12952f6b75,159,rtsp://admin:adnecit123@172.25.0.160:554,A
+Entrance Hall 10,5ba9618143d98a12952f6b76,160,rtsp://admin:adnecit123@172.25.0.161:554,A
+Entrance Hall 10,5ba9618143d98a12952f6b77,161,rtsp://admin:adnecit123@172.25.0.162:554,A
+Entrance Hall 10,5ba9618143d98a12952f6b78,162,rtsp://admin:adnecit123@172.25.0.163:554,A
+Entrance Hall 11,5ba9618143d98a12952f6b79,163,rtsp://admin:adnecit123@172.25.0.164:554,A
+Entrance Hall 11,5ba9618143d98a12952f6b7a,164,rtsp://admin:adnecit123@172.25.0.165:554,A
+Entrance ICC 1,5ba9618143d98a12952f6b7b,165,rtsp://admin:adnecit123@172.25.0.166:554,A
+Entrance ICC 2,5ba9618143d98a12952f6b7c,166,rtsp://admin:adnecit123@172.25.0.167:554,A
+Entrance ICC 3,5ba9618143d98a12952f6b7d,167,rtsp://admin:adnecit123@172.25.0.168:554,A
+Entrance ICC 4,5ba9618143d98a12952f6b7e,168,rtsp://admin:adnecit123@172.25.0.169:554,A
+Entrance Grand Stand 1,5ba9618143d98a12952f6b7f,169,rtsp://admin:adnecit123@172.25.0.170:554,A
+Entrance Grand Stand 2,5ba9618143d98a12952f6b80,170,rtsp://admin:adnecit123@172.25.0.171:554,A
+Entrance Grand Stand 3,5ba9618143d98a12952f6b81,171,rtsp://admin:adnecit123@172.25.0.172:554,A
+Entrance Grand Stand 4,5ba9618143d98a12952f6b82,172,rtsp://admin:adnecit123@172.25.0.173:554,A
+Front Conference A,5ba9618143d98a12952f6b83,173,rtsp://admin:adnecit123@172.25.0.174:554,A
+Front Conference A,5ba9618143d98a12952f6b84,174,rtsp://admin:adnecit123@172.25.0.175:554,A
+Front Conference B,5ba9618143d98a12952f6b85,175,rtsp://admin:adnecit123@172.25.0.176:554,A
+Front Conference B,5ba9618143d98a12952f6b86,176,rtsp://admin:adnecit123@172.25.0.177:554,A
+HYATT ENTRACE,5ba9618143d98a12952f6b87,177,rtsp://admin:adnecit123@172.25.0.178:554,A
+Now Store,5ba9618143d98a12952f6b88,178,rtsp://admin:adnecit123@172.25.0.179:554,A
+Main Entrance Grand Stand,5ba9618143d98a12952f6b89,179,rtsp://admin:adnecit123@172.25.0.180:554,A
+Main Entrance Grand Stand,5ba9618143d98a12952f6b8a,180,rtsp://admin:adnecit123@172.25.0.181:554,A
+Toilet 1,5ba9618143d98a12952f6b8b,181,rtsp://admin:adnecit123@172.25.0.182:554,A
+Toilet 2,5ba9618143d98a12952f6b8c,182,rtsp://admin:adnecit123@172.25.0.183:554,A
+Toilet 3,5ba9618143d98a12952f6b8d,183,rtsp://admin:adnecit123@172.25.0.184:554,A
+Toilet 8,5ba9618143d98a12952f6b8e,184,rtsp://admin:adnecit123@172.25.0.185:554,A
+Toilet 9,5ba9618143d98a12952f6b8f,185,rtsp://admin:adnecit123@172.25.0.186:554,A
+Organizer Office A Entrance,5ba9618143d98a12952f6b90,186,rtsp://admin:adnecit123@172.25.0.187:554,A
+ICC 1 Entrance,5ba9618143d98a12952f6b91,187,rtsp://admin:adnecit123@172.25.0.188:554,A
+Toilet 10,5ba9618143d98a12952f6b92,188,rtsp://admin:adnecit123@172.25.0.189:554,A
+Toilet 11,5ba9618143d98a12952f6b93,189,rtsp://admin:adnecit123@172.25.0.190:554,A
+Toilet 12,5ba9618143d98a12952f6b94,190,rtsp://admin:adnecit123@172.25.0.191:554,A
+Toilet 4,5ba9618143d98a12952f6b95,191,rtsp://admin:adnecit123@172.25.0.192:554,A
+Toilet 5,5ba9618143d98a12952f6b96,192,rtsp://admin:adnecit123@172.25.0.193:554,A
+Toilet 6,5ba9618143d98a12952f6b97,193,rtsp://admin:adnecit123@172.25.0.194:554,A
+Toilet 7,5ba9618143d98a12952f6b98,194,rtsp://admin:adnecit123@172.25.0.195:554,A
+Entrance CAR Parking A,5ba9618143d98a12952f6b99,195,rtsp://admin:adnecit123@172.25.0.196:554,A
+CS 19,5ba9618143d98a12952f6b9a,196,rtsp://admin:adnecit123@172.25.0.197:554,A
+Aloft Entrance,5ba9618143d98a12952f6b9b,197,rtsp://admin:adnecit123@172.25.0.198:554,A
+Entrance A,5ba9618143d98a12952f6b9c,198,rtsp://admin:adnecit123@172.25.0.199:554,A
+Entrance B,5ba9618143d98a12952f6b9d,199,rtsp://admin:adnecit123@172.25.0.200:554,A
+Entrance C,5ba9618143d98a12952f6b9e,200,rtsp://admin:adnecit123@172.25.0.201:554,A
+Entrance D1,5ba9618143d98a12952f6b9f,201,rtsp://admin:adnecit123@172.25.0.202:554,A
+Entrance D2,5ba9618143d98a12952f6ba0,202,rtsp://admin:adnecit123@172.25.0.203:554,A
+Entrance E,5ba9618143d98a12952f6ba1,203,rtsp://admin:adnecit123@172.25.0.204:554,A
+Entrance F1,5ba9618143d98a12952f6ba2,204,rtsp://admin:adnecit123@172.25.0.205:554,A
+Entrance F2,5ba9618143d98a12952f6ba3,205,rtsp://admin:adnecit123@172.25.0.206:554,A
+Entrance G,5ba9618143d98a12952f6ba4,206,rtsp://admin:adnecit123@172.25.0.207:554,A
+Entrance H1,5ba9618143d98a12952f6ba5,207,rtsp://admin:adnecit123@172.25.0.208:554,A
+Entrance H2,5ba9618143d98a12952f6ba6,208,rtsp://admin:adnecit123@172.25.0.209:554,A
+Entrance J,5ba9618143d98a12952f6ba7,209,rtsp://admin:adnecit123@172.25.0.210:554,A
+Entrance K,5ba9618143d98a12952f6ba8,210,rtsp://admin:adnecit123@172.25.0.211:554,A
+CARPARK B1,5baaeb9543d98a12952f743c,211,rtsp://admin:adnecit123@172.25.0.212:554,A
+CARPARK B2,5baaec0543d98a12952f744e,212,rtsp://admin:adnecit123@172.25.0.213:554,A
+CARPARK A,5baaec0543d98a12952f744f,213,rtsp://admin:adnecit123@172.25.0.214:554,A
+Marina Bridge,5bc3ad71261abd30c48dc547,214,rtsp://admin:adnecit123@172.25.0.215:554,A
+Boat Show Vip Entrance,5bc3ad71261abd30c48dc548,215,rtsp://admin:adnecit123@172.25.0.216:554,A
+Boat Show Public Entrance,5bc3ad71261abd30c48dc549,216,rtsp://admin:adnecit123@172.25.0.217:554,A
+Boat Show Reg,5bc3ad71261abd30c48dc54a,217,rtsp://admin:adnecit123@172.25.0.218:554,A
+Boat Show corridor,5bc3ad71261abd30c48dc54b,218,rtsp://admin:adnecit123@172.25.0.219:554,A
+Hall 1,5ba9618143d98a12952f6ad7,1,rtsp://admin:adnecit123@172.25.0.2:554,A
+Hall 1,5ba9618143d98a12952f6ad8,2,rtsp://admin:adnecit123@172.25.0.3:554,A
+Hall 1,5ba9618143d98a12952f6ad9,3,rtsp://admin:adnecit123@172.25.0.4:554,A
+Hall 1,5ba9618143d98a12952f6ada,4,rtsp://admin:adnecit123@172.25.0.5:554,A
+Hall 1,5ba9618143d98a12952f6adb,5,rtsp://admin:adnecit123@172.25.0.6:554,A
+Hall 1,5ba9618143d98a12952f6adc,6,rtsp://admin:adnecit123@172.25.0.7:554,A
+Hall 2,5ba9618143d98a12952f6add,7,rtsp://admin:adnecit123@172.25.0.8:554,A
+Hall 2,5ba9618143d98a12952f6ade,8,rtsp://admin:adnecit123@172.25.0.9:554,A
+Hall 2,5ba9618143d98a12952f6adf,9,rtsp://admin:adnecit123@172.25.0.10:554,A
+Hall 2,5ba9618143d98a12952f6ae0,10,rtsp://admin:adnecit123@172.25.0.11:554,A
+Hall 2,5ba9618143d98a12952f6ae1,11,rtsp://admin:adnecit123@172.25.0.12:554,A
+Hall 2,5ba9618143d98a12952f6ae2,12,rtsp://admin:adnecit123@172.25.0.13:554,A
+Hall 3,5ba9618143d98a12952f6ae3,13,rtsp://admin:adnecit123@172.25.0.14:554,A
+Hall 3,5ba9618143d98a12952f6ae4,14,rtsp://admin:adnecit123@172.25.0.15:554,A
+Hall 3,5ba9618143d98a12952f6ae5,15,rtsp://admin:adnecit123@172.25.0.16:554,A
+Hall 3,5ba9618143d98a12952f6ae6,16,rtsp://admin:adnecit123@172.25.0.17:554,A
+Hall 3,5ba9618143d98a12952f6ae7,17,rtsp://admin:adnecit123@172.25.0.18:554,A
+Hall 3,5ba9618143d98a12952f6ae8,18,rtsp://admin:adnecit123@172.25.0.19:554,A
+Hall 4,5ba9618143d98a12952f6ae9,19,rtsp://admin:adnecit123@172.25.0.20:554,A
+Hall 4,5ba9618143d98a12952f6aea,20,rtsp://admin:adnecit123@172.25.0.21:554,A
+Hall 4,5ba9618143d98a12952f6aeb,21,rtsp://admin:adnecit123@172.25.0.22:554,A
+Hall 4,5ba9618143d98a12952f6aec,22,rtsp://admin:adnecit123@172.25.0.23:554,A
+Hall 4,5ba9618143d98a12952f6aed,23,rtsp://admin:adnecit123@172.25.0.24:554,A
+Hall 4,5ba9618143d98a12952f6aee,24,rtsp://admin:adnecit123@172.25.0.25:554,A
+Hall 4,5ba9618143d98a12952f6aef,25,rtsp://admin:adnecit123@172.25.0.26:554,A
+Hall 4,5ba9618143d98a12952f6af0,26,rtsp://admin:adnecit123@172.25.0.27:554,A
+Hall 4,5ba9618143d98a12952f6af1,27,rtsp://admin:adnecit123@172.25.0.28:554,A
+Hall 5,5ba9618143d98a12952f6af2,28,rtsp://admin:adnecit123@172.25.0.29:554,A
+Hall 5,5ba9618143d98a12952f6af3,29,rtsp://admin:adnecit123@172.25.0.30:554,A
+Hall 5,5ba9618143d98a12952f6af4,30,rtsp://admin:adnecit123@172.25.0.31:554,A
+Hall 5,5ba9618143d98a12952f6af5,31,rtsp://admin:adnecit123@172.25.0.32:554,A
+Hall 5,5ba9618143d98a12952f6af6,32,rtsp://admin:adnecit123@172.25.0.33:554,A
+Hall 5,5ba9618143d98a12952f6af7,33,rtsp://admin:adnecit123@172.25.0.34:554,A
+Hall 6,5ba9618143d98a12952f6af8,34,rtsp://admin:adnecit123@172.25.0.35:554,A
+Hall 6,5ba9618143d98a12952f6af9,35,rtsp://admin:adnecit123@172.25.0.36:554,A
+Hall 6,5ba9618143d98a12952f6afa,36,rtsp://admin:adnecit123@172.25.0.37:554,A
+Hall 6,5ba9618143d98a12952f6afb,37,rtsp://admin:adnecit123@172.25.0.38:554,A
+Hall 6,5ba9618143d98a12952f6afc,38,rtsp://admin:adnecit123@172.25.0.39:554,A
+Hall 6,5ba9618143d98a12952f6afd,39,rtsp://admin:adnecit123@172.25.0.40:554,A
+Hall 7,5ba9618143d98a12952f6afe,40,rtsp://admin:adnecit123@172.25.0.41:554,A
+Hall 7,5ba9618143d98a12952f6aff,41,rtsp://admin:adnecit123@172.25.0.42:554,A
+Hall 7,5ba9618143d98a12952f6b00,42,rtsp://admin:adnecit123@172.25.0.43:554,A
+Hall 7,5ba9618143d98a12952f6b01,43,rtsp://admin:adnecit123@172.25.0.44:554,A
+Hall 7,5ba9618143d98a12952f6b02,44,rtsp://admin:adnecit123@172.25.0.45:554,A
+Hall 7,5ba9618143d98a12952f6b03,45,rtsp://admin:adnecit123@172.25.0.46:554,A
+Hall 7,5ba9618143d98a12952f6b04,46,rtsp://admin:adnecit123@172.25.0.47:554,A
+Hall 7,5ba9618143d98a12952f6b05,47,rtsp://admin:adnecit123@172.25.0.48:554,A
+Hall 7,5ba9618143d98a12952f6b06,48,rtsp://admin:adnecit123@172.25.0.49:554,A
+Hall 8,5ba9618143d98a12952f6b07,49,rtsp://admin:adnecit123@172.25.0.50:554,A
+Hall 8,5ba9618143d98a12952f6b08,50,rtsp://admin:adnecit123@172.25.0.51:554,A
+Hall 8,5ba9618143d98a12952f6b09,51,rtsp://admin:adnecit123@172.25.0.52:554,A
+Hall 8,5ba9618143d98a12952f6b0a,52,rtsp://admin:adnecit123@172.25.0.53:554,A
+Hall 8,5ba9618143d98a12952f6b0b,53,rtsp://admin:adnecit123@172.25.0.54:554,A
+Hall 8,5ba9618143d98a12952f6b0c,54,rtsp://admin:adnecit123@172.25.0.55:554,A
+Hall 8,5ba9618143d98a12952f6b0d,55,rtsp://admin:adnecit123@172.25.0.56:554,A
+Hall 8,5ba9618143d98a12952f6b0e,56,rtsp://admin:adnecit123@172.25.0.57:554,A
+Hall 8,5ba9618143d98a12952f6b0f,57,rtsp://admin:adnecit123@172.25.0.58:554,A
+Hall 9,5ba9618143d98a12952f6b10,58,rtsp://admin:adnecit123@172.25.0.59:554,A
+Hall 9,5ba9618143d98a12952f6b11,59,rtsp://admin:adnecit123@172.25.0.60:554,A
+Hall 9,5ba9618143d98a12952f6b12,60,rtsp://admin:adnecit123@172.25.0.61:554,A
+Hall 9,5ba9618143d98a12952f6b13,61,rtsp://admin:adnecit123@172.25.0.62:554,A
+Hall 9,5ba9618143d98a12952f6b14,62,rtsp://admin:adnecit123@172.25.0.63:554,A
+Hall 9,5ba9618143d98a12952f6b15,63,rtsp://admin:adnecit123@172.25.0.64:554,A
+Hall 10,5ba9618143d98a12952f6b16,64,rtsp://admin:adnecit123@172.25.0.65:554,A
+Hall 10,5ba9618143d98a12952f6b17,65,rtsp://admin:adnecit123@172.25.0.66:554,A
+Hall 10,5ba9618143d98a12952f6b18,66,rtsp://admin:adnecit123@172.25.0.67:554,A
+Hall 10,5ba9618143d98a12952f6b19,67,rtsp://admin:adnecit123@172.25.0.68:554,A
+Hall 10,5ba9618143d98a12952f6b1a,68,rtsp://admin:adnecit123@172.25.0.69:554,A
+Hall 10,5ba9618143d98a12952f6b1b,69,rtsp://admin:adnecit123@172.25.0.70:554,A
+Hall 10,5ba9618143d98a12952f6b1c,70,rtsp://admin:adnecit123@172.25.0.71:554,A
+Hall 10,5ba9618143d98a12952f6b1d,71,rtsp://admin:adnecit123@172.25.0.72:554,A
+Hall 10,5ba9618143d98a12952f6b1e,72,rtsp://admin:adnecit123@172.25.0.73:554,A
+Hall 10,5ba9618143d98a12952f6b1f,73,rtsp://admin:adnecit123@172.25.0.74:554,A
+Hall 10,5ba9618143d98a12952f6b20,74,rtsp://admin:adnecit123@172.25.0.75:554,A
+Hall 11,5ba9618143d98a12952f6b21,75,rtsp://admin:adnecit123@172.25.0.76:554,A
+Hall 11,5ba9618143d98a12952f6b22,76,rtsp://admin:adnecit123@172.25.0.77:554,A
+Hall 11,5ba9618143d98a12952f6b23,77,rtsp://admin:adnecit123@172.25.0.78:554,A
+Hall 11,5ba9618143d98a12952f6b24,78,rtsp://admin:adnecit123@172.25.0.79:554,A
+Hall 11,5ba9618143d98a12952f6b25,79,rtsp://admin:adnecit123@172.25.0.80:554,A
+Hall 11,5ba9618143d98a12952f6b26,80,rtsp://admin:adnecit123@172.25.0.81:554,A
+ICC,5ba9618143d98a12952f6b27,81,rtsp://admin:adnecit123@172.25.0.82:554,A
+ICC,5ba9618143d98a12952f6b28,82,rtsp://admin:adnecit123@172.25.0.83:554,A
+ICC,5ba9618143d98a12952f6b29,83,rtsp://admin:adnecit123@172.25.0.84:554,A
+ICC,5ba9618143d98a12952f6b2a,84,rtsp://admin:adnecit123@172.25.0.85:554,A
+ICC,5ba9618143d98a12952f6b2b,85,rtsp://admin:adnecit123@172.25.0.86:554,A
+ICC,5ba9618143d98a12952f6b2c,86,rtsp://admin:adnecit123@172.25.0.87:554,A
+ICC,5ba9618143d98a12952f6b2d,87,rtsp://admin:adnecit123@172.25.0.88:554,A
+ICC,5ba9618143d98a12952f6b2e,88,rtsp://admin:adnecit123@172.25.0.89:554,A
+ICC,5ba9618143d98a12952f6b2f,89,rtsp://admin:adnecit123@172.25.0.90:554,A
+ICC,5ba9618143d98a12952f6b30,90,rtsp://admin:adnecit123@172.25.0.91:554,A
+ICC,5ba9618143d98a12952f6b31,91,rtsp://admin:adnecit123@172.25.0.92:554,A
+ICC,5ba9618143d98a12952f6b32,92,rtsp://admin:adnecit123@172.25.0.93:554,A
+ICC,5ba9618143d98a12952f6b33,93,rtsp://admin:adnecit123@172.25.0.94:554,A
+ICC,5ba9618143d98a12952f6b34,94,rtsp://admin:adnecit123@172.25.0.95:554,A
+ICC,5ba9618143d98a12952f6b35,95,rtsp://admin:adnecit123@172.25.0.96:554,A
+ICC,5ba9618143d98a12952f6b36,96,rtsp://admin:adnecit123@172.25.0.97:554,A
+ICC,5ba9618143d98a12952f6b37,97,rtsp://admin:adnecit123@172.25.0.98:554,A
+ICC,5ba9618143d98a12952f6b38,98,rtsp://admin:adnecit123@172.25.0.99:554,A
+ICC,5ba9618143d98a12952f6b39,99,rtsp://admin:adnecit123@172.25.0.100:554,A
+ICC,5ba9618143d98a12952f6b3a,100,rtsp://admin:adnecit123@172.25.0.101:554,A
+ICC,5ba9618143d98a12952f6b3b,101,rtsp://admin:adnecit123@172.25.0.102:554,A
+ICC,5ba9618143d98a12952f6b3c,102,rtsp://admin:adnecit123@172.25.0.103:554,A
+ICC,5ba9618143d98a12952f6b3d,103,rtsp://admin:adnecit123@172.25.0.104:554,A
+ICC,5ba9618143d98a12952f6b3e,104,rtsp://admin:adnecit123@172.25.0.105:554,A
+

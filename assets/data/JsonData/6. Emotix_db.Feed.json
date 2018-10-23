@@ -1,0 +1,765 @@
+[
+ {
+   "Location": "",
+   "_id": "5ba9618143d98a12952f6b58",
+   "cam_id": 130,
+   "feed": "rtsp://admin:adnecit123@172.25.0.131:554",
+   "zone": "A"
+ },
+ {
+   "Location": "",
+   "_id": "5ba9618143d98a12952f6b59",
+   "cam_id": 131,
+   "feed": "rtsp://admin:adnecit123@172.25.0.132:554",
+   "zone": "A"
+ },
+ {
+   "Location": "",
+   "_id": "5ba9618143d98a12952f6b5a",
+   "cam_id": 132,
+   "feed": "rtsp://admin:adnecit123@172.25.0.133:554",
+   "zone": "A"
+ },
+ {
+   "Location": "",
+   "_id": "5ba9618143d98a12952f6b5b",
+   "cam_id": 133,
+   "feed": "rtsp://admin:adnecit123@172.25.0.134:554",
+   "zone": "A"
+ },
+ {
+   "Location": "",
+   "_id": "5ba9618143d98a12952f6b5c",
+   "cam_id": 134,
+   "feed": "rtsp://admin:adnecit123@172.25.0.135:554",
+   "zone": "A"
+ },
+ {
+   "Location": "",
+   "_id": "5ba9618143d98a12952f6b5d",
+   "cam_id": 135,
+   "feed": "rtsp://admin:adnecit123@172.25.0.136:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Grand Stand",
+   "_id": "5ba9618143d98a12952f6b3f",
+   "cam_id": 105,
+   "feed": "rtsp://admin:adnecit123@172.25.0.106:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Grand Stand",
+   "_id": "5ba9618143d98a12952f6b40",
+   "cam_id": 106,
+   "feed": "rtsp://admin:adnecit123@172.25.0.107:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Grand Stand",
+   "_id": "5ba9618143d98a12952f6b41",
+   "cam_id": 107,
+   "feed": "rtsp://admin:adnecit123@172.25.0.108:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Grand Stand",
+   "_id": "5ba9618143d98a12952f6b42",
+   "cam_id": 108,
+   "feed": "rtsp://admin:adnecit123@172.25.0.109:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Grand Stand",
+   "_id": "5ba9618143d98a12952f6b43",
+   "cam_id": 109,
+   "feed": "rtsp://admin:adnecit123@172.25.0.110:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Grand Stand",
+   "_id": "5ba9618143d98a12952f6b44",
+   "cam_id": 110,
+   "feed": "rtsp://admin:adnecit123@172.25.0.111:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Grand Stand",
+   "_id": "5ba9618143d98a12952f6b45",
+   "cam_id": 111,
+   "feed": "rtsp://admin:adnecit123@172.25.0.112:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Atrium A Side",
+   "_id": "5ba9618143d98a12952f6b46",
+   "cam_id": 112,
+   "feed": "rtsp://admin:adnecit123@172.25.0.113:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Atrium A Side",
+   "_id": "5ba9618143d98a12952f6b47",
+   "cam_id": 113,
+   "feed": "rtsp://admin:adnecit123@172.25.0.114:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Atrium A Side",
+   "_id": "5ba9618143d98a12952f6b48",
+   "cam_id": 114,
+   "feed": "rtsp://admin:adnecit123@172.25.0.115:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Atrium B Side",
+   "_id": "5ba9618143d98a12952f6b49",
+   "cam_id": 115,
+   "feed": "rtsp://admin:adnecit123@172.25.0.116:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Atrium B Side",
+   "_id": "5ba9618143d98a12952f6b4a",
+   "cam_id": 116,
+   "feed": "rtsp://admin:adnecit123@172.25.0.117:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Atrium B Side",
+   "_id": "5ba9618143d98a12952f6b4b",
+   "cam_id": 117,
+   "feed": "rtsp://admin:adnecit123@172.25.0.118:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Hall 2 Entrance",
+   "_id": "5ba9618143d98a12952f6b4c",
+   "cam_id": 118,
+   "feed": "rtsp://admin:adnecit123@172.25.0.119:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Organizer Office",
+   "_id": "5ba9618143d98a12952f6b4d",
+   "cam_id": 119,
+   "feed": "rtsp://admin:adnecit123@172.25.0.120:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Organizer Office",
+   "_id": "5ba9618143d98a12952f6b4e",
+   "cam_id": 120,
+   "feed": "rtsp://admin:adnecit123@172.25.0.121:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Organizer Office",
+   "_id": "5ba9618143d98a12952f6b4f",
+   "cam_id": 121,
+   "feed": "rtsp://admin:adnecit123@172.25.0.122:554",
+   "zone": "A"
+ },
+ {
+   "Location": "First Aid Point",
+   "_id": "5ba9618143d98a12952f6b50",
+   "cam_id": 122,
+   "feed": "rtsp://admin:adnecit123@172.25.0.123:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Organizer Office",
+   "_id": "5ba9618143d98a12952f6b51",
+   "cam_id": 123,
+   "feed": "rtsp://admin:adnecit123@172.25.0.124:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Organizer Office",
+   "_id": "5ba9618143d98a12952f6b52",
+   "cam_id": 124,
+   "feed": "rtsp://admin:adnecit123@172.25.0.125:554",
+   "zone": "A"
+ },
+ {
+   "Location": "ICC 2 Front Side",
+   "_id": "5ba9618143d98a12952f6b53",
+   "cam_id": 125,
+   "feed": "rtsp://admin:adnecit123@172.25.0.126:554",
+   "zone": "A"
+ },
+ {
+   "Location": "ICC END",
+   "_id": "5ba9618143d98a12952f6b54",
+   "cam_id": 126,
+   "feed": "rtsp://admin:adnecit123@172.25.0.127:554",
+   "zone": "A"
+ },
+ {
+   "Location": "2nd Phase FF",
+   "_id": "5ba9618143d98a12952f6b55",
+   "cam_id": 127,
+   "feed": "rtsp://admin:adnecit123@172.25.0.128:554",
+   "zone": "A"
+ },
+ {
+   "Location": "3rd Phase FF",
+   "_id": "5ba9618143d98a12952f6b56",
+   "cam_id": 128,
+   "feed": "rtsp://admin:adnecit123@172.25.0.129:554",
+   "zone": "A"
+ },
+ {
+   "Location": "4th Phase FF",
+   "_id": "5ba9618143d98a12952f6b57",
+   "cam_id": 129,
+   "feed": "rtsp://admin:adnecit123@172.25.0.130:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Capital Suite 7 Front",
+   "_id": "5ba9618143d98a12952f6b5e",
+   "cam_id": 136,
+   "feed": "rtsp://admin:adnecit123@172.25.0.137:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Capital Suit 2",
+   "_id": "5ba9618143d98a12952f6b5f",
+   "cam_id": 137,
+   "feed": "rtsp://admin:adnecit123@172.25.0.138:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Capital Suite 1",
+   "_id": "5ba9618143d98a12952f6b60",
+   "cam_id": 138,
+   "feed": "rtsp://admin:adnecit123@172.25.0.139:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Atrium FF B Side",
+   "_id": "5ba9618143d98a12952f6b61",
+   "cam_id": 139,
+   "feed": "rtsp://admin:adnecit123@172.25.0.140:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Atrium FF A Side",
+   "_id": "5ba9618143d98a12952f6b62",
+   "cam_id": 140,
+   "feed": "rtsp://admin:adnecit123@172.25.0.141:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 1",
+   "_id": "5ba9618143d98a12952f6b63",
+   "cam_id": 141,
+   "feed": "rtsp://admin:adnecit123@172.25.0.142:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 1",
+   "_id": "5ba9618143d98a12952f6b64",
+   "cam_id": 142,
+   "feed": "rtsp://admin:adnecit123@172.25.0.143:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 2",
+   "_id": "5ba9618143d98a12952f6b65",
+   "cam_id": 143,
+   "feed": "rtsp://admin:adnecit123@172.25.0.144:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 2",
+   "_id": "5ba9618143d98a12952f6b66",
+   "cam_id": 144,
+   "feed": "rtsp://admin:adnecit123@172.25.0.145:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 3",
+   "_id": "5ba9618143d98a12952f6b67",
+   "cam_id": 145,
+   "feed": "rtsp://admin:adnecit123@172.25.0.146:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 3",
+   "_id": "5ba9618143d98a12952f6b68",
+   "cam_id": 146,
+   "feed": "rtsp://admin:adnecit123@172.25.0.147:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 4",
+   "_id": "5ba9618143d98a12952f6b69",
+   "cam_id": 147,
+   "feed": "rtsp://admin:adnecit123@172.25.0.148:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 4",
+   "_id": "5ba9618143d98a12952f6b6a",
+   "cam_id": 148,
+   "feed": "rtsp://admin:adnecit123@172.25.0.149:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 5",
+   "_id": "5ba9618143d98a12952f6b6b",
+   "cam_id": 149,
+   "feed": "rtsp://admin:adnecit123@172.25.0.150:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance hall 5",
+   "_id": "5ba9618143d98a12952f6b6c",
+   "cam_id": 150,
+   "feed": "rtsp://admin:adnecit123@172.25.0.151:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 6",
+   "_id": "5ba9618143d98a12952f6b6d",
+   "cam_id": 151,
+   "feed": "rtsp://admin:adnecit123@172.25.0.152:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 6",
+   "_id": "5ba9618143d98a12952f6b6e",
+   "cam_id": 152,
+   "feed": "rtsp://admin:adnecit123@172.25.0.153:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 7",
+   "_id": "5ba9618143d98a12952f6b6f",
+   "cam_id": 153,
+   "feed": "rtsp://admin:adnecit123@172.25.0.154:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 7",
+   "_id": "5ba9618143d98a12952f6b70",
+   "cam_id": 154,
+   "feed": "rtsp://admin:adnecit123@172.25.0.155:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 7",
+   "_id": "5ba9618143d98a12952f6b71",
+   "cam_id": 155,
+   "feed": "rtsp://admin:adnecit123@172.25.0.156:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 8",
+   "_id": "5ba9618143d98a12952f6b72",
+   "cam_id": 156,
+   "feed": "rtsp://admin:adnecit123@172.25.0.157:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 8",
+   "_id": "5ba9618143d98a12952f6b73",
+   "cam_id": 157,
+   "feed": "rtsp://admin:adnecit123@172.25.0.158:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 9",
+   "_id": "5ba9618143d98a12952f6b74",
+   "cam_id": 158,
+   "feed": "rtsp://admin:adnecit123@172.25.0.159:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 9",
+   "_id": "5ba9618143d98a12952f6b75",
+   "cam_id": 159,
+   "feed": "rtsp://admin:adnecit123@172.25.0.160:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 10",
+   "_id": "5ba9618143d98a12952f6b76",
+   "cam_id": 160,
+   "feed": "rtsp://admin:adnecit123@172.25.0.161:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 10",
+   "_id": "5ba9618143d98a12952f6b77",
+   "cam_id": 161,
+   "feed": "rtsp://admin:adnecit123@172.25.0.162:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 10",
+   "_id": "5ba9618143d98a12952f6b78",
+   "cam_id": 162,
+   "feed": "rtsp://admin:adnecit123@172.25.0.163:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 11",
+   "_id": "5ba9618143d98a12952f6b79",
+   "cam_id": 163,
+   "feed": "rtsp://admin:adnecit123@172.25.0.164:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Hall 11",
+   "_id": "5ba9618143d98a12952f6b7a",
+   "cam_id": 164,
+   "feed": "rtsp://admin:adnecit123@172.25.0.165:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance ICC 1",
+   "_id": "5ba9618143d98a12952f6b7b",
+   "cam_id": 165,
+   "feed": "rtsp://admin:adnecit123@172.25.0.166:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance ICC 2",
+   "_id": "5ba9618143d98a12952f6b7c",
+   "cam_id": 166,
+   "feed": "rtsp://admin:adnecit123@172.25.0.167:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance ICC 3",
+   "_id": "5ba9618143d98a12952f6b7d",
+   "cam_id": 167,
+   "feed": "rtsp://admin:adnecit123@172.25.0.168:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance ICC 4",
+   "_id": "5ba9618143d98a12952f6b7e",
+   "cam_id": 168,
+   "feed": "rtsp://admin:adnecit123@172.25.0.169:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Grand Stand 1",
+   "_id": "5ba9618143d98a12952f6b7f",
+   "cam_id": 169,
+   "feed": "rtsp://admin:adnecit123@172.25.0.170:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Grand Stand 2",
+   "_id": "5ba9618143d98a12952f6b80",
+   "cam_id": 170,
+   "feed": "rtsp://admin:adnecit123@172.25.0.171:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Grand Stand 3",
+   "_id": "5ba9618143d98a12952f6b81",
+   "cam_id": 171,
+   "feed": "rtsp://admin:adnecit123@172.25.0.172:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance Grand Stand 4",
+   "_id": "5ba9618143d98a12952f6b82",
+   "cam_id": 172,
+   "feed": "rtsp://admin:adnecit123@172.25.0.173:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Front Conference A",
+   "_id": "5ba9618143d98a12952f6b83",
+   "cam_id": 173,
+   "feed": "rtsp://admin:adnecit123@172.25.0.174:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Front Conference A",
+   "_id": "5ba9618143d98a12952f6b84",
+   "cam_id": 174,
+   "feed": "rtsp://admin:adnecit123@172.25.0.175:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Front Conference B",
+   "_id": "5ba9618143d98a12952f6b85",
+   "cam_id": 175,
+   "feed": "rtsp://admin:adnecit123@172.25.0.176:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Front Conference B",
+   "_id": "5ba9618143d98a12952f6b86",
+   "cam_id": 176,
+   "feed": "rtsp://admin:adnecit123@172.25.0.177:554",
+   "zone": "A"
+ },
+ {
+   "Location": "HYATT ENTRACE",
+   "_id": "5ba9618143d98a12952f6b87",
+   "cam_id": 177,
+   "feed": "rtsp://admin:adnecit123@172.25.0.178:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Now Store",
+   "_id": "5ba9618143d98a12952f6b88",
+   "cam_id": 178,
+   "feed": "rtsp://admin:adnecit123@172.25.0.179:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Main Entrance Grand Stand",
+   "_id": "5ba9618143d98a12952f6b89",
+   "cam_id": 179,
+   "feed": "rtsp://admin:adnecit123@172.25.0.180:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Main Entrance Grand Stand",
+   "_id": "5ba9618143d98a12952f6b8a",
+   "cam_id": 180,
+   "feed": "rtsp://admin:adnecit123@172.25.0.181:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Toilet 1",
+   "_id": "5ba9618143d98a12952f6b8b",
+   "cam_id": 181,
+   "feed": "rtsp://admin:adnecit123@172.25.0.182:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Toilet 2",
+   "_id": "5ba9618143d98a12952f6b8c",
+   "cam_id": 182,
+   "feed": "rtsp://admin:adnecit123@172.25.0.183:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Toilet 3",
+   "_id": "5ba9618143d98a12952f6b8d",
+   "cam_id": 183,
+   "feed": "rtsp://admin:adnecit123@172.25.0.184:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Toilet 8",
+   "_id": "5ba9618143d98a12952f6b8e",
+   "cam_id": 184,
+   "feed": "rtsp://admin:adnecit123@172.25.0.185:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Toilet 9",
+   "_id": "5ba9618143d98a12952f6b8f",
+   "cam_id": 185,
+   "feed": "rtsp://admin:adnecit123@172.25.0.186:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Organizer Office A Entrance",
+   "_id": "5ba9618143d98a12952f6b90",
+   "cam_id": 186,
+   "feed": "rtsp://admin:adnecit123@172.25.0.187:554",
+   "zone": "A"
+ },
+ {
+   "Location": "ICC 1 Entrance",
+   "_id": "5ba9618143d98a12952f6b91",
+   "cam_id": 187,
+   "feed": "rtsp://admin:adnecit123@172.25.0.188:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Toilet 10",
+   "_id": "5ba9618143d98a12952f6b92",
+   "cam_id": 188,
+   "feed": "rtsp://admin:adnecit123@172.25.0.189:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Toilet 11",
+   "_id": "5ba9618143d98a12952f6b93",
+   "cam_id": 189,
+   "feed": "rtsp://admin:adnecit123@172.25.0.190:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Toilet 12",
+   "_id": "5ba9618143d98a12952f6b94",
+   "cam_id": 190,
+   "feed": "rtsp://admin:adnecit123@172.25.0.191:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Toilet 4",
+   "_id": "5ba9618143d98a12952f6b95",
+   "cam_id": 191,
+   "feed": "rtsp://admin:adnecit123@172.25.0.192:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Toilet 5",
+   "_id": "5ba9618143d98a12952f6b96",
+   "cam_id": 192,
+   "feed": "rtsp://admin:adnecit123@172.25.0.193:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Toilet 6",
+   "_id": "5ba9618143d98a12952f6b97",
+   "cam_id": 193,
+   "feed": "rtsp://admin:adnecit123@172.25.0.194:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Toilet 7",
+   "_id": "5ba9618143d98a12952f6b98",
+   "cam_id": 194,
+   "feed": "rtsp://admin:adnecit123@172.25.0.195:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance CAR Parking A",
+   "_id": "5ba9618143d98a12952f6b99",
+   "cam_id": 195,
+   "feed": "rtsp://admin:adnecit123@172.25.0.196:554",
+   "zone": "A"
+ },
+ {
+   "Location": "CS 19",
+   "_id": "5ba9618143d98a12952f6b9a",
+   "cam_id": 196,
+   "feed": "rtsp://admin:adnecit123@172.25.0.197:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Aloft Entrance",
+   "_id": "5ba9618143d98a12952f6b9b",
+   "cam_id": 197,
+   "feed": "rtsp://admin:adnecit123@172.25.0.198:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance A",
+   "_id": "5ba9618143d98a12952f6b9c",
+   "cam_id": 198,
+   "feed": "rtsp://admin:adnecit123@172.25.0.199:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance B",
+   "_id": "5ba9618143d98a12952f6b9d",
+   "cam_id": 199,
+   "feed": "rtsp://admin:adnecit123@172.25.0.200:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance C",
+   "_id": "5ba9618143d98a12952f6b9e",
+   "cam_id": 200,
+   "feed": "rtsp://admin:adnecit123@172.25.0.201:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance D1",
+   "_id": "5ba9618143d98a12952f6b9f",
+   "cam_id": 201,
+   "feed": "rtsp://admin:adnecit123@172.25.0.202:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance D2",
+   "_id": "5ba9618143d98a12952f6ba0",
+   "cam_id": 202,
+   "feed": "rtsp://admin:adnecit123@172.25.0.203:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance E",
+   "_id": "5ba9618143d98a12952f6ba1",
+   "cam_id": 203,
+   "feed": "rtsp://admin:adnecit123@172.25.0.204:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance F1",
+   "_id": "5ba9618143d98a12952f6ba2",
+   "cam_id": 204,
+   "feed": "rtsp://admin:adnecit123@172.25.0.205:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance F2",
+   "_id": "5ba9618143d98a12952f6ba3",
+   "cam_id": 205,
+   "feed": "rtsp://admin:adnecit123@172.25.0.206:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance G",
+   "_id": "5ba9618143d98a12952f6ba4",
+   "cam_id": 206,
+   "feed": "rtsp://admin:adnecit123@172.25.0.207:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance H1",
+   "_id": "5ba9618143d98a12952f6ba5",
+   "cam_id": 207,
+   "feed": "rtsp://admin:adnecit123@172.25.0.208:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance H2",
+   "_id": "5ba9618143d98a12952f6ba6",
+   "cam_id": 208,
+   "feed": "rtsp://admin:adnecit123@172.25.0.209:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance J",
+   "_id": "5ba9618143d98a12952f6ba7",
+   "cam_id": 209,
+   "feed": "rtsp://admin:adnecit123@172.25.0.210:554",
+   "zone": "A"
+ },
+ {
+   "Location": "Entrance K",
+   "_id": "5ba9618143d98a12952f6ba8",
+   "cam_id": 210,
+   "feed": "rtsp://admin:adnecit123@172.25.0.211:554",
+   "zone": "A"
+ },
+ {
+   "Location": "CARPARK B1",
+   "_id": "5baaeb9543d98a12952f743c",
+   "cam_id": 211,
+   "feed": "rtsp://admin:adnecit123@172.25.0.212:554",
+   "zone": "A"
+ },
+ {
+   "Location": "CARPARK B2",
+   "_id": "5baaec0543d98a12952f744e",
+   "cam_id": 212,
+   "feed": "rtsp://admin:adnecit123@172.25.0.213:554",
+   "zone": "A"
+ },
+ {
+   "Location": "CARPARK A",
+   "_id": "5baaec0543d98a12952f744f",
+   "cam_id": 213,
+   "feed": "rtsp://admin:adnecit123@172.25.0.214:554",
+   "zone": "A"
+ }
+]

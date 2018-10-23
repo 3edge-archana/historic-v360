@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Chart</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            @font-face {
+                font-family: 'proxima_nova_bold';
+                src: url('assets/fonts/Proxima Nova Bold.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+            }
+            @font-face {
+                font-family: 'proxima_nova_a_regular';
+                src: url('assets/fonts/Proxima Nova Alt Regular.woff') format('woff');
+                font-weight: normal; 
+                font-style: normal;
+            }
+
+
+        </style>
+    </head>
+
+    <body>
+        <div>
+            <div id="myGraph" style="text-align: center;"></div>
+        </div>         
+        <script src="libs/d3.v5.min.js"></script>
+        <script src="scripts/d3script.js"></script>
+        <script src="scripts/components/pie.js"></script>
+        <script src="scripts/components/legend.js"></script>
+        <script src="scripts/components/slider.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="assets/styles/main.css">
+
+        <script>
+
+            // -----------------------------  csv version -----------------------------------------------------
+
+            var params = {};
+            var visitorInfo;
+            var washRoomCountData;
+            var feedData;
+            var visitorCountCent;
+            var entryCountNew;
+
+
+            d3.csv("./assets/data/NewData/4. Emotix_db.visitor_info.csv")
+                    .then(function (data1) {
+                        visitorInfo = data1.map(function (d) {
+                            return {
+                                Ethnicity: d["ethnicity"],
+                                Age: d["age"],
+                                Gender: d["gender"],
+                                timestamp: d["timestamp"] != 'undefined' ? new Date(d["timestamp"]) : new Date(),
+                                Anger: +d["anger"],
+                                Disappointed: +d["disappointed"],
+                                Disgust: +d["disgust"],
+                                Fear: +d["fear"],
+                                Joy: +d["joy"],
+                                Laughing: +d["laughing"],
+                                Rage: +d["rage"],
+                                Sadness: +d["sadness"],
+                                Smiley: +d["smiley"],
+                                Cam_id: d["cam_id"]
+                            }
+                        })
+
+
+                        visitorInfo = visitorInfo.filter(function (d) {
+                            return    (!(d.Ethnicity == "nan" || d.Ethnicity == "unknown") &&
+                                    !(d.Age == "nan" || d.Age == "unknown") &&
+                                    !(d.Gender == "nan" || d.Gender == "unknown") &&
+                                    !(d.timestamp == "nan" || d.timestamp == "unknown") &&
+                                    !(d.Anger == "nan" || d.Anger == "unknown") &&
+                                    !(d.Disappointed == "nan" || d.Disappointed == "unknown") &&
+                                    !(d.Disgust == "nan" || d.Disgust == "unknown") &&
+                                    !(d.Fear == "nan" || d.Fear == "unknown") &&
+                                    !(d.Joy == "nan" || d.Joy == "unknown") &&
+                                    !(d.Laughing == "nan" || d.Laughing == "unknown") &&
+                                    !(d.Rage == "nan" || d.Rage == "unknown") &&
+                                    !(d.Sadness == "nan" || d.Sadness == "unknown") &&
+                                    !(d.Smiley == "nan" || d.Smiley == "unknown") &&
+                                    !(d.Cam_id == "nan" || d.Cam_id == "unknown"))
+                        });
+
+
+
+
+                        d3.csv("./assets/data/NewData/2. Emotix_db.Visitor_Count_cent.csv")
+                                .then(function (data2) {
+                                    visitorCountCent = data2.map(function (d) {
+                                        return {
+                                            cam_id: d["cam_id"],
+                                            count: d["Count"],
+                                            timestamp: d["timestamp"] != 'undefined' ? new Date(d["timestamp"]) : new Date(),
+                                        }
+                                    })
+
+                                    d3.csv("./assets/data/NewData/1. Emotix_db.entry_count_new.csv")
+                                            .then(function (data3) {
+                                                console.log("data3", data3);
+                                                entryCountNew = data3.map(function (d) {
+                                                    return {
+                                                        id: d["_id"],
+                                                        cam_id: d["cam_id"],
+                                                        entryCount: d["entry_count"],
+//                                                        exitCount: d["exit_count"],
+                                                        timestamp: d["timestamp"] != 'undefined' ? new Date(d["timestamp"]) : new Date(),
+                                                    }
+                                                })
+
+
+                                                d3.csv("./assets/data/NewData/5. Emotix_db.washroom_entry_count_new.csv")
+                                                        .then(function (data4) {
+
+                                                            washRoomCountData = data4.map(function (d) {
+                                                                return {
+                                                                    cam_id: d["cam_id"],
+                                                                    count: d["entry_count"],
+                                                                    timestamp: d["timestamp"] != 'undefined' ? new Date(d["timestamp"]) : new Date(),
+                                                                }
+                                                            })
+
+
+                                                            d3.csv("./assets/data/NewData/6. Emotix_db.Feed.csv")
+                                                                    .then(function (data5) {
+                                                                        feedData = data5.map(function (d) {
+                                                                            return {
+                                                                                cam_id: d["cam_id"],
+                                                                                location: d["Location"],
+                                                                                zone: d["zone"]
+                                                                            }
+                                                                        })
+
+                                                                        params.visitorInfo = visitorInfo;
+                                                                        params.washRoomCountData = washRoomCountData;
+                                                                        params.feedData = feedData;
+                                                                        params.visitorCountCent = visitorCountCent;
+                                                                        params.entryCountNew = entryCountNew;
+
+                                                                        var chart = renderChart()
+                                                                                .svgWidth(window.innerWidth)
+                                                                                .svgHeight(1575)
+                                                                                .container('#myGraph')
+                                                                                .data(params)
+                                                                                .debug(true)
+                                                                                .run(false)
+
+
+                                                                    })
+                                                        })
+                                            })
+                                })
+                    })
+            // ------------------------------ csv version  end ------------------------------------------------------
+
+            // -----------------------------  json version -----------------------------------------------------
+
+            //   var params = {};
+            //      var visitorInfo;
+            //      var washRoomCountData;
+            //      var feedData;
+            //      var visitorCountCent;
+            //      var entryCountNew;
+            //
+            //
+            //      d3.json("./assets/data/JsonData/4. Emotix_db.visitor_info.json")
+            //        .then(function(data1) {
+            //               visitorInfo = data1.results.map(function (d) {
+            //                   return {
+            //                       Ethnicity: d["ethnicity"],
+            //                       Age: d["age"],
+            //                       Gender: d["gender"],
+            //                       timestamp: d["timestamp"] != 'undefined' ? new Date(d["timestamp"]) : new Date(),
+            //                       Anger: d["anger"],
+            //                       Disappointed: d["disappointed"],
+            //                       Disgust: d["disgust"],
+            //                  Fear: d["fear"],
+            //                  Joy: d["joy"],
+            //                  Laughing: d["laughing"],
+            //                  Rage: d["rage"],
+            //                  Sadness: d["sadness"],
+            //                  Smiley: d["smiley"],
+            //                  Cam_id : d["cam_id"]
+            //              }
+            //          })
+            //      
+            //       
+            //           visitorInfo = visitorInfo.filter(function(d){
+            //           return    (!(d.Ethnicity == "nan" || d.Ethnicity == "unknown") &&
+            //                      !(d.Age == "nan" || d.Age == "unknown") &&
+            //                      !(d.Gender == "nan" || d.Gender == "unknown") &&
+            //                      !(d.timestamp == "nan" || d.timestamp == "unknown") &&
+            //                      !(d.Anger == "nan" || d.Anger == "unknown") &&
+            //                      !(d.Disappointed == "nan" || d.Disappointed == "unknown") &&
+            //                      !(d.Disgust == "nan" || d.Disgust == "unknown") &&
+            //                      !(d.Fear == "nan" || d.Fear == "unknown") &&
+            //                      !(d.Joy == "nan" || d.Joy == "unknown") &&
+            //                      !(d.Laughing == "nan" || d.Laughing == "unknown") &&
+            //                      !(d.Rage == "nan" || d.Rage == "unknown") &&
+            //                      !(d.Sadness == "nan" || d.Sadness == "unknown") &&
+            //                      !(d.Smiley == "nan" || d.Smiley == "unknown") &&
+            //                      !(d.Cam_id == "nan" || d.Cam_id == "unknown"))
+            //       });
+            //
+            //
+            //
+            //       
+            //       d3.json("./assets/data/JsonData/2. Emotix_db.Visitor_Count_cent.json")
+            //         .then(function(data2) {
+            //           visitorCountCent =  data2.results.map(function (d) {
+            //               return {
+            //                   cam_id: d["cam_id"],
+            //                   count: d["Count"],
+            //                   timestamp: d["timestamp"]
+            //               }
+            //           }) 
+            //          
+            //           d3.json("./assets/data/JsonData/1. Emotix_db.entry_count_new.json")
+            //             .then(function(data3) {
+            //                  entryCountNew =  data3.map(function (d) {
+            //                   return {
+            //                       id : d["_id"],
+            //                       cam_id: d["cam_id"],
+            //                       entryCount: d["entry_count"],
+            //                       exitCount: d["exit_count"],
+            //                       timestamp: d["timestamp"]
+            //                   }
+            //                }) 
+
+            //           
+            //           d3.json("./assets/data/JsonData/5. Emotix_db.washroom_entry_count_new.json")
+            //              .then(function(data4) {
+            //                   washRoomCountData = data4.map(function (d) {
+            //                   return {
+            //                       cam_id: d["cam_id"],
+            //                       count: d["entry_count"],
+            //                       timestamp: d["timestamp"]
+            //                   }
+            //                }) 
+            //                
+
+            //                d3.json("./assets/data/JsonData/6. Emotix_db.Feed.json")
+            //                  .then(function(data5 ) {
+            //                   feedData = data5.map(function (d) {
+            //                            return {
+            //                                cam_id: d["cam_id"],
+            //                                location: d["Location"],
+            //                                zone: d["zone"]
+            //                            }
+            //                        }) 
+            //                     
+            //                        params.visitorInfo = visitorInfo;
+            //                        params.washRoomCountData = washRoomCountData;
+            //                        params.feedData = feedData;
+            //                        params.visitorCountCent = visitorCountCent;
+            //                        params.entryCountNew = entryCountNew;
+            //
+            //                        var chart = renderChart()
+            //                                //.svgHeight(window.innerHeight - 30  )
+            //                                .svgWidth(window.innerWidth)
+            //                                .container('#myGraph')
+            //                                .data(params)
+            //                                .debug(true)
+            //                                .run(false)
+            //
+            //
+            //                    })
+            //                })
+            //            })
+            //        })
+            //    });
+            // -----------------------------  json version end  -----------------------------------------------------    
+        </script>
+        <script type="text/ecmascript">
+    function getScrollXY() {
+      var scrOfX = 0, scrOfY = 0;
+      if( typeof( window.pageYOffset ) == 'number' ) {
+        //Netscape compliant
+        scrOfY = window.pageYOffset;
+        scrOfX = window.pageXOffset;
+      } else if( document.body && ( document.body.scrollLeft || document.body.scrollTop ) ) {
+        //DOM compliant
+        scrOfY = document.body.scrollTop;
+        scrOfX = document.body.scrollLeft;
+      } else if( document.documentElement && ( document.documentElement.scrollLeft || document.documentElement.scrollTop ) ) {
+        //IE6 standards compliant mode
+        scrOfY = document.documentElement.scrollTop;
+        scrOfX = document.documentElement.scrollLeft;
+      }
+      return [ scrOfX, scrOfY ];
+    }
+
+    function moveFixed(evt)
+    {
+      var scrollpos = getScrollXY();
+      var fixed = document.getElementById("headerMain");
+      var tfm = fixed.transform.baseVal.getItem(0);
+      tfm.setTranslate(scrollpos[0], scrollpos[1]);
+    }
+
+    window.onscroll = moveFixed;
+        </script>
+    </body>
+</html>

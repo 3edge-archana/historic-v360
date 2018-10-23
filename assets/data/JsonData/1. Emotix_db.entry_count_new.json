@@ -1,0 +1,1757 @@
+[
+ {
+   "_id": "5bb0ba554b56539202102236",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-09-30T11:58:11.946Z",
+   "timestamp": "2018-09-30T06:17:53.000Z",
+   "video_file": "2018-09-30T06-17-53.mp4"
+ },
+ {
+   "_id": "5bb0bba14b565392021025a3",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-09-30T12:03:43.355Z",
+   "timestamp": "2018-09-30T06:20:51.000Z",
+   "video_file": "2018-09-30T06-20-51.mp4"
+ },
+ {
+   "_id": "5bb0bcc24b5653920210290c",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 4,
+   "processed_timestamp": "2018-09-30T12:09:29.402Z",
+   "timestamp": "2018-09-30T06:26:15.000Z",
+   "video_file": "2018-09-30T06-26-15.mp4"
+ },
+ {
+   "_id": "5bb0bf344b56539202103107",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-09-30T12:18:58.843Z",
+   "timestamp": "2018-09-30T06:36:18.000Z",
+   "video_file": "2018-09-30T06-36-18.mp4"
+ },
+ {
+   "_id": "5bb0c5944b56539202104502",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-09-30T12:46:10.666Z",
+   "timestamp": "2018-09-30T06:56:10.000Z",
+   "video_file": "2018-09-30T06-56-10.mp4"
+ },
+ {
+   "_id": "5bb0c82c4b56539202104f7d",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 3,
+   "processed_timestamp": "2018-09-30T12:58:29.085Z",
+   "timestamp": "2018-09-30T07:05:31.000Z",
+   "video_file": "2018-09-30T07-05-31.mp4"
+ },
+ {
+   "_id": "5bb0c8df4b5653920210529f",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-09-30T13:00:13.841Z",
+   "timestamp": "2018-09-30T07:07:34.000Z",
+   "video_file": "2018-09-30T07-07-34.mp4"
+ },
+ {
+   "_id": "5bb0cefb4b56539202106cb3",
+   "cam_id": 201,
+   "entry_count": 2,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-01T12:08:37.724Z",
+   "timestamp": "2018-09-30T06:05:19.000Z",
+   "video_file": "2018-09-30T06-05-19.mp4"
+ },
+ {
+   "_id": "5bb0d0704b56539202106f6d",
+   "cam_id": 208,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-01T12:15:21.798Z",
+   "timestamp": "2018-09-30T06:04:03.000Z",
+   "video_file": "2018-09-30T06-04-03.mp4"
+ },
+ {
+   "_id": "5bb0d3424b5653920210754e",
+   "cam_id": 172,
+   "entry_count": 2,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-01T12:42:10.580Z",
+   "timestamp": "2018-09-30T06:15:00.000Z",
+   "video_file": "2018-09-30T06-15-00.mp4"
+ },
+ {
+   "_id": "5bb0d9394b5653920210d6d3",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-09-30T14:09:59.903Z",
+   "timestamp": "2018-09-30T08:45:01.000Z",
+   "video_file": "2018-09-30T08-45-01.mp4"
+ },
+ {
+   "_id": "5bb0dc9c4b56539202115f09",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 2,
+   "processed_timestamp": "2018-09-30T14:33:53.904Z",
+   "timestamp": "2018-09-30T09:00:02.000Z",
+   "video_file": "2018-09-30T09-00-02.mp4"
+ },
+ {
+   "_id": "5bb0e1df4b565392022005ad",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-09-30T14:46:53.442Z",
+   "timestamp": "2018-09-30T09:15:00.000Z",
+   "video_file": "2018-09-30T09-15-00.mp4"
+ },
+ {
+   "_id": "5bb0e6384b565392023580d3",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-09-30T15:13:08.812Z",
+   "timestamp": "2018-09-30T09:30:00.000Z",
+   "video_file": "2018-09-30T09-30-00.mp4"
+ },
+ {
+   "_id": "5bb0fb074b56539202963ca1",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-09-30T16:34:13.426Z",
+   "timestamp": "2018-09-30T07:32:57.000Z",
+   "video_file": "2018-09-30T07-32-57.mp4"
+ },
+ {
+   "_id": "5bb10f3a4b56539202f0c10b",
+   "cam_id": 179,
+   "entry_count": 2,
+   "exit_count": null,
+   "processed_timestamp": "2018-09-30T18:05:52.491Z",
+   "timestamp": "2018-09-30T08:16:21.000Z",
+   "video_file": "2018-09-30T08-16-21.mp4"
+ },
+ {
+   "_id": "5bb124d84b565392024e8075",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-09-30T19:32:38.792Z",
+   "timestamp": "2018-09-30T08:45:01.000Z",
+   "video_file": "2018-09-30T08-45-01.mp4"
+ },
+ {
+   "_id": "5bb168984b56539202716bfb",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-01T00:21:42.831Z",
+   "timestamp": "2018-09-30T09:30:02.000Z",
+   "video_file": "2018-09-30T09-30-02.mp4"
+ },
+ {
+   "_id": "5bb1942b4b565392022b12bc",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-01T04:10:18.657Z",
+   "timestamp": "2018-09-30T12:30:01.000Z",
+   "video_file": "2018-09-30T12-30-01.mp4"
+ },
+ {
+   "_id": "5bb1b1764b56539202ab28c2",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-01T05:53:35.821Z",
+   "timestamp": "2018-09-30T12:45:03.000Z",
+   "video_file": "2018-09-30T12-45-03.mp4"
+ },
+ {
+   "_id": "5bb1be134b56539202e24be5",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-01T06:50:57.325Z",
+   "timestamp": "2018-09-30T13:01:38.000Z",
+   "video_file": "2018-09-30T13-01-38.mp4"
+ },
+ {
+   "_id": "5bb1d1af4b565392023700d1",
+   "cam_id": 180,
+   "entry_count": 5,
+   "exit_count": 5,
+   "processed_timestamp": "2018-10-01T08:32:46.459Z",
+   "timestamp": "2018-09-30T13:15:00.000Z",
+   "video_file": "2018-09-30T13-15-00.mp4"
+ },
+ {
+   "_id": "5bb1e8004b56539202968a59",
+   "cam_id": 180,
+   "entry_count": 5,
+   "exit_count": 4,
+   "processed_timestamp": "2018-10-01T09:49:37.810Z",
+   "timestamp": "2018-09-30T13:30:01.000Z",
+   "video_file": "2018-09-30T13-30-01.mp4"
+ },
+ {
+   "_id": "5bb1f4f34b56539202cd1166",
+   "cam_id": 179,
+   "entry_count": 5,
+   "exit_count": 4,
+   "processed_timestamp": "2018-10-01T10:28:29.912Z",
+   "timestamp": "2018-09-30T10:34:21.000Z",
+   "video_file": "2018-09-30T10-34-21.mp4"
+ },
+ {
+   "_id": "5bb216724b565392021aa212",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-01T12:55:36.536Z",
+   "timestamp": "2018-09-30T11:00:00.000Z",
+   "video_file": "2018-09-30T11-00-00.mp4"
+ },
+ {
+   "_id": "5bb223504b565392021abb03",
+   "cam_id": 179,
+   "entry_count": 4,
+   "exit_count": 7,
+   "processed_timestamp": "2018-10-01T13:53:19.842Z",
+   "timestamp": "2018-09-30T11:15:01.000Z",
+   "video_file": "2018-09-30T11-15-01.mp4"
+ },
+ {
+   "_id": "5bb2319c4b565392021ae66c",
+   "cam_id": 179,
+   "entry_count": 3,
+   "exit_count": 5,
+   "processed_timestamp": "2018-10-01T15:00:21.118Z",
+   "timestamp": "2018-09-30T11:30:01.000Z",
+   "video_file": "2018-09-30T11-30-01.mp4"
+ },
+ {
+   "_id": "5bb240de4b565392021b1554",
+   "cam_id": 179,
+   "entry_count": 2,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-01T15:44:33.210Z",
+   "timestamp": "2018-09-30T11:45:01.000Z",
+   "video_file": "2018-09-30T11-45-01.mp4"
+ },
+ {
+   "_id": "5bb24f114b565392021b4e89",
+   "cam_id": 179,
+   "entry_count": 2,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-01T17:02:20.432Z",
+   "timestamp": "2018-09-30T12:00:02.000Z",
+   "video_file": "2018-09-30T12-00-02.mp4"
+ },
+ {
+   "_id": "5bb2c35c4b565392021c6c1e",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-02T01:08:10.564Z",
+   "timestamp": "2018-09-30T14:30:00.000Z",
+   "video_file": "2018-09-30T14-30-00.mp4"
+ },
+ {
+   "_id": "5bb34ca14b565392021d7fb0",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-02T10:46:56.536Z",
+   "timestamp": "2018-09-30T17:45:02.000Z",
+   "video_file": "2018-09-30T17-45-02.mp4"
+ },
+ {
+   "_id": "5bb357534b565392021d93a0",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-02T11:32:34.623Z",
+   "timestamp": "2018-09-30T18:00:01.000Z",
+   "video_file": "2018-09-30T18-00-01.mp4"
+ },
+ {
+   "_id": "5bb3a07e4b565392021e1f32",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-02T16:44:45.763Z",
+   "timestamp": "2018-09-30T22:45:00.000Z",
+   "video_file": "2018-09-30T22-45-00.mp4"
+ },
+ {
+   "_id": "5bb3c0854b565392021e62b7",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-02T19:01:24.469Z",
+   "timestamp": "2018-09-30T23:45:01.000Z",
+   "video_file": "2018-09-30T23-45-01.mp4"
+ },
+ {
+   "_id": "5bb3ca494b565392021e74a7",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-02T19:52:17.100Z",
+   "timestamp": "2018-10-01T00:00:02.000Z",
+   "video_file": "2018-10-01T00-00-02.mp4"
+ },
+ {
+   "_id": "5bb3ea1b4b565392021eab9c",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-02T22:05:12.812Z",
+   "timestamp": "2018-10-01T00:45:00.000Z",
+   "video_file": "2018-10-01T00-45-00.mp4"
+ },
+ {
+   "_id": "5bb3f5724b565392021ec2e1",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-02T22:47:13.286Z",
+   "timestamp": "2018-10-01T01:00:00.000Z",
+   "video_file": "2018-10-01T01-00-00.mp4"
+ },
+ {
+   "_id": "5bb400e14b565392021edc05",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-02T23:36:00.527Z",
+   "timestamp": "2018-10-01T01:15:01.000Z",
+   "video_file": "2018-10-01T01-15-01.mp4"
+ },
+ {
+   "_id": "5bb411a64b565392021ef99d",
+   "cam_id": 180,
+   "entry_count": 4,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-03T00:55:23.383Z",
+   "timestamp": "2018-10-01T01:45:00.000Z",
+   "video_file": "2018-10-01T01-45-00.mp4"
+ },
+ {
+   "_id": "5bb4171f4b565392021f0d02",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-03T01:13:04.541Z",
+   "timestamp": "2018-09-30T22:45:00.000Z",
+   "video_file": "2018-09-30T22-45-00.mp4"
+ },
+ {
+   "_id": "5bb41b734b565392021f187c",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-03T01:29:22.448Z",
+   "timestamp": "2018-10-01T02:00:00.000Z",
+   "video_file": "2018-10-01T02-00-00.mp4"
+ },
+ {
+   "_id": "5bb41fd54b565392021f226e",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-03T01:48:04.666Z",
+   "timestamp": "2018-09-30T23:00:01.000Z",
+   "video_file": "2018-09-30T23-00-01.mp4"
+ },
+ {
+   "_id": "5bb424974b565392021f2d6d",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T02:13:21.855Z",
+   "timestamp": "2018-10-01T02:15:00.000Z",
+   "video_file": "2018-10-01T02-15-00.mp4"
+ },
+ {
+   "_id": "5bb42ecc4b565392021f457e",
+   "cam_id": 180,
+   "entry_count": 8,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T02:58:33.857Z",
+   "timestamp": "2018-10-01T02:30:01.000Z",
+   "video_file": "2018-10-01T02-30-01.mp4"
+ },
+ {
+   "_id": "5bb436e74b565392021f597d",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-03T03:39:12.185Z",
+   "timestamp": "2018-10-01T02:45:00.000Z",
+   "video_file": "2018-10-01T02-45-00.mp4"
+ },
+ {
+   "_id": "5bb442774b565392021f7527",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T04:15:49.997Z",
+   "timestamp": "2018-10-01T03:00:01.000Z",
+   "video_file": "2018-10-01T03-00-01.mp4"
+ },
+ {
+   "_id": "5bb44c894b565392021f9e3c",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-03T04:58:50.442Z",
+   "timestamp": "2018-10-01T03:15:00.000Z",
+   "video_file": "2018-10-01T03-15-00.mp4"
+ },
+ {
+   "_id": "5bb4529f4b565392021faae4",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-03T05:27:06.506Z",
+   "timestamp": "2018-10-01T00:15:00.000Z",
+   "video_file": "2018-10-01T00-15-00.mp4"
+ },
+ {
+   "_id": "5bb456a84b565392021fb3cd",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-03T05:41:58.676Z",
+   "timestamp": "2018-10-01T03:30:01.000Z",
+   "video_file": "2018-10-01T03-30-01.mp4"
+ },
+ {
+   "_id": "5bb467984b565392021fd961",
+   "cam_id": 180,
+   "entry_count": 3,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-03T07:04:53.635Z",
+   "timestamp": "2018-10-01T04:00:01.000Z",
+   "video_file": "2018-10-01T04-00-01.mp4"
+ },
+ {
+   "_id": "5bb46d8a4b565392021fe8f3",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-03T07:19:38.970Z",
+   "timestamp": "2018-10-01T01:00:00.000Z",
+   "video_file": "2018-10-01T01-00-00.mp4"
+ },
+ {
+   "_id": "5bb477b14b56539202200404",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-03T08:02:55.529Z",
+   "timestamp": "2018-10-01T01:15:01.000Z",
+   "video_file": "2018-10-01T01-15-01.mp4"
+ },
+ {
+   "_id": "5bb47cd64b56539202200e9f",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-03T08:24:52.686Z",
+   "timestamp": "2018-10-01T04:30:01.000Z",
+   "video_file": "2018-10-01T04-30-01.mp4"
+ },
+ {
+   "_id": "5bb481594b5653920220161c",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T08:48:13.017Z",
+   "timestamp": "2018-10-01T01:30:01.000Z",
+   "video_file": "2018-10-01T01-30-01.mp4"
+ },
+ {
+   "_id": "5bb48bb64b56539202202c32",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T09:30:00.077Z",
+   "timestamp": "2018-10-01T01:45:00.000Z",
+   "video_file": "2018-10-01T01-45-00.mp4"
+ },
+ {
+   "_id": "5bb495734b5653920220450c",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 5,
+   "processed_timestamp": "2018-10-03T10:32:31.584Z",
+   "timestamp": "2018-10-01T02:00:00.000Z",
+   "video_file": "2018-10-01T02-00-00.mp4"
+ },
+ {
+   "_id": "5bb49dd64b56539202206086",
+   "cam_id": 180,
+   "entry_count": 4,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-03T10:56:06.854Z",
+   "timestamp": "2018-10-01T05:15:01.000Z",
+   "video_file": "2018-10-01T05-15-01.mp4"
+ },
+ {
+   "_id": "5bb4a4fc4b5653920220777b",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-03T11:21:25.882Z",
+   "timestamp": "2018-10-01T02:15:02.000Z",
+   "video_file": "2018-10-01T02-15-02.mp4"
+ },
+ {
+   "_id": "5bb4b4fb4b5653920220a4af",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-03T12:24:25.608Z",
+   "timestamp": "2018-10-01T05:45:00.000Z",
+   "video_file": "2018-10-01T05-45-00.mp4"
+ },
+ {
+   "_id": "5bb4bb854b5653920220b45f",
+   "cam_id": 179,
+   "entry_count": 4,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T13:04:44.165Z",
+   "timestamp": "2018-10-01T02:45:00.000Z",
+   "video_file": "2018-10-01T02-45-00.mp4"
+ },
+ {
+   "_id": "5bb4c2214b5653920220c40a",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T13:20:31.985Z",
+   "timestamp": "2018-10-01T06:00:02.000Z",
+   "video_file": "2018-10-01T06-00-02.mp4"
+ },
+ {
+   "_id": "5bb4cda84b5653920220d8d8",
+   "cam_id": 180,
+   "entry_count": 3,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-03T14:14:16.335Z",
+   "timestamp": "2018-10-01T06:15:01.000Z",
+   "video_file": "2018-10-01T06-15-01.mp4"
+ },
+ {
+   "_id": "5bb4d2c64b5653920220e408",
+   "cam_id": 179,
+   "entry_count": 2,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-03T14:33:11.811Z",
+   "timestamp": "2018-10-01T03:15:00.000Z",
+   "video_file": "2018-10-01T03-15-00.mp4"
+ },
+ {
+   "_id": "5bb4d7674b56539202219abd",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-03T14:51:18.111Z",
+   "timestamp": "2018-10-01T03:30:00.000Z",
+   "video_file": "2018-10-01T03-30-00.mp4"
+ },
+ {
+   "_id": "5bb4dd354b5653920221ae88",
+   "cam_id": 180,
+   "entry_count": 3,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-03T15:23:28.097Z",
+   "timestamp": "2018-10-01T06:30:02.000Z",
+   "video_file": "2018-10-01T06-30-02.mp4"
+ },
+ {
+   "_id": "5bb4e5de4b5653920221bf31",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-03T15:53:01.011Z",
+   "timestamp": "2018-10-01T03:45:00.000Z",
+   "video_file": "2018-10-01T03-45-00.mp4"
+ },
+ {
+   "_id": "5bb4edef4b5653920221d19e",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-03T16:36:06.247Z",
+   "timestamp": "2018-10-01T06:45:02.000Z",
+   "video_file": "2018-10-01T06-45-02.mp4"
+ },
+ {
+   "_id": "5bb4f3894b5653920221dd31",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T16:58:16.967Z",
+   "timestamp": "2018-10-01T04:15:00.000Z",
+   "video_file": "2018-10-01T04-15-00.mp4"
+ },
+ {
+   "_id": "5bb4f9b34b5653920221e8f2",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-03T17:24:06.336Z",
+   "timestamp": "2018-10-01T07:00:01.000Z",
+   "video_file": "2018-10-01T07-00-01.mp4"
+ },
+ {
+   "_id": "5bb507be4b56539202220422",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-03T18:22:35.518Z",
+   "timestamp": "2018-10-01T04:45:00.000Z",
+   "video_file": "2018-10-01T04-45-00.mp4"
+ },
+ {
+   "_id": "5bb5121a4b56539202221690",
+   "cam_id": 179,
+   "entry_count": 4,
+   "exit_count": 6,
+   "processed_timestamp": "2018-10-03T19:18:56.975Z",
+   "timestamp": "2018-10-01T05:00:02.000Z",
+   "video_file": "2018-10-01T05-00-02.mp4"
+ },
+ {
+   "_id": "5bb5202d4b56539202223df7",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-03T20:08:44.939Z",
+   "timestamp": "2018-10-01T05:15:01.000Z",
+   "video_file": "2018-10-01T05-15-01.mp4"
+ },
+ {
+   "_id": "5bb524da4b56539202224693",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T20:21:44.163Z",
+   "timestamp": "2018-10-01T08:00:00.000Z",
+   "video_file": "2018-10-01T08-00-00.mp4"
+ },
+ {
+   "_id": "5bb52a524b5653920222500b",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T20:45:05.004Z",
+   "timestamp": "2018-10-01T05:30:01.000Z",
+   "video_file": "2018-10-01T05-30-01.mp4"
+ },
+ {
+   "_id": "5bb52ee64b56539202225790",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 5,
+   "processed_timestamp": "2018-10-03T21:17:20.028Z",
+   "timestamp": "2018-10-01T08:15:00.000Z",
+   "video_file": "2018-10-01T08-15-00.mp4"
+ },
+ {
+   "_id": "5bb535b54b565392022269a6",
+   "cam_id": 179,
+   "entry_count": 5,
+   "exit_count": 6,
+   "processed_timestamp": "2018-10-03T21:39:51.041Z",
+   "timestamp": "2018-10-01T05:45:00.000Z",
+   "video_file": "2018-10-01T05-45-00.mp4"
+ },
+ {
+   "_id": "5bb53cb74b565392022278ae",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T22:03:34.050Z",
+   "timestamp": "2018-10-01T08:30:01.000Z",
+   "video_file": "2018-10-01T08-30-01.mp4"
+ },
+ {
+   "_id": "5bb5420b4b565392022282c3",
+   "cam_id": 179,
+   "entry_count": 2,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T22:31:28.933Z",
+   "timestamp": "2018-10-01T06:00:02.000Z",
+   "video_file": "2018-10-01T06-00-02.mp4"
+ },
+ {
+   "_id": "5bb555034b5653920222a5f5",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T23:47:13.158Z",
+   "timestamp": "2018-10-01T06:30:02.000Z",
+   "video_file": "2018-10-01T06-30-02.mp4"
+ },
+ {
+   "_id": "5bb557b94b5653920222ac50",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-03T23:58:47.331Z",
+   "timestamp": "2018-10-01T09:15:00.000Z",
+   "video_file": "2018-10-01T09-15-00.mp4"
+ },
+ {
+   "_id": "5bb55ced4b5653920222b72e",
+   "cam_id": 179,
+   "entry_count": 5,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-04T00:34:59.965Z",
+   "timestamp": "2018-10-01T06:45:02.000Z",
+   "video_file": "2018-10-01T06-45-02.mp4"
+ },
+ {
+   "_id": "5bb568734b5653920222d13f",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-04T01:15:33.263Z",
+   "timestamp": "2018-10-01T07:00:00.000Z",
+   "video_file": "2018-10-01T07-00-00.mp4"
+ },
+ {
+   "_id": "5bb5736e4b5653920222eb8f",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-04T02:00:38.871Z",
+   "timestamp": "2018-10-01T07:15:02.000Z",
+   "video_file": "2018-10-01T07-15-02.mp4"
+ },
+ {
+   "_id": "5bb57a1c4b5653920222fa4f",
+   "cam_id": 179,
+   "entry_count": 3,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-04T02:35:51.482Z",
+   "timestamp": "2018-10-01T07:30:00.000Z",
+   "video_file": "2018-10-01T07-30-00.mp4"
+ },
+ {
+   "_id": "5bb582404b56539202230b3b",
+   "cam_id": 180,
+   "entry_count": 3,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-04T03:15:41.300Z",
+   "timestamp": "2018-10-01T10:15:00.000Z",
+   "video_file": "2018-10-01T10-15-00.mp4"
+ },
+ {
+   "_id": "5bb58c4c4b56539202231cd7",
+   "cam_id": 179,
+   "entry_count": 2,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-04T03:55:22.679Z",
+   "timestamp": "2018-10-01T07:45:01.000Z",
+   "video_file": "2018-10-01T07-45-01.mp4"
+ },
+ {
+   "_id": "5bb598bd4b5653920223387b",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-04T04:38:35.298Z",
+   "timestamp": "2018-10-01T10:30:02.000Z",
+   "video_file": "2018-10-01T10-30-02.mp4"
+ },
+ {
+   "_id": "5bb5a0a54b5653920223ce0e",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-04T05:27:27.559Z",
+   "timestamp": "2018-10-01T10:45:02.000Z",
+   "video_file": "2018-10-01T10-45-02.mp4"
+ },
+ {
+   "_id": "5bb5ac6f4b5653920223e4a7",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-04T06:00:13.425Z",
+   "timestamp": "2018-10-01T08:00:00.000Z",
+   "video_file": "2018-10-01T08-00-00.mp4"
+ },
+ {
+   "_id": "5bb5b17a4b5653920223ed53",
+   "cam_id": 180,
+   "entry_count": 4,
+   "exit_count": 9,
+   "processed_timestamp": "2018-10-04T06:59:48.055Z",
+   "timestamp": "2018-10-01T11:00:00.000Z",
+   "video_file": "2018-10-01T11-00-00.mp4"
+ },
+ {
+   "_id": "5bb5bfd64b56539202240b89",
+   "cam_id": 179,
+   "entry_count": 12,
+   "exit_count": 22,
+   "processed_timestamp": "2018-10-04T08:05:39.337Z",
+   "timestamp": "2018-10-01T08:15:02.000Z",
+   "video_file": "2018-10-01T08-15-02.mp4"
+ },
+ {
+   "_id": "5bb5ce244b56539202243761",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 4,
+   "processed_timestamp": "2018-10-04T08:52:37.342Z",
+   "timestamp": "2018-10-01T11:15:00.000Z",
+   "video_file": "2018-10-01T11-15-00.mp4"
+ },
+ {
+   "_id": "5bb5db954b56539202245763",
+   "cam_id": 179,
+   "entry_count": 10,
+   "exit_count": 11,
+   "processed_timestamp": "2018-10-04T09:47:27.236Z",
+   "timestamp": "2018-10-01T08:30:01.000Z",
+   "video_file": "2018-10-01T08-30-01.mp4"
+ },
+ {
+   "_id": "5bb5f28c4b56539202249390",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-04T11:04:41.649Z",
+   "timestamp": "2018-10-01T11:30:00.000Z",
+   "video_file": "2018-10-01T11-30-00.mp4"
+ },
+ {
+   "_id": "5bb5fb1a4b5653920224a2ed",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-04T11:44:59.546Z",
+   "timestamp": "2018-10-01T08:45:00.000Z",
+   "video_file": "2018-10-01T08-45-00.mp4"
+ },
+ {
+   "_id": "5bb603974b5653920224b4c7",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-04T12:39:43.380Z",
+   "timestamp": "2018-10-01T11:45:00.000Z",
+   "video_file": "2018-10-01T11-45-00.mp4"
+ },
+ {
+   "_id": "5bb611374b5653920224d502",
+   "cam_id": 179,
+   "entry_count": 2,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-04T13:12:38.566Z",
+   "timestamp": "2018-10-01T09:00:00.000Z",
+   "video_file": "2018-10-01T09-00-00.mp4"
+ },
+ {
+   "_id": "5bb621374b5653920224f0e4",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-04T14:18:39.363Z",
+   "timestamp": "2018-10-01T12:00:00.000Z",
+   "video_file": "2018-10-01T12-00-00.mp4"
+ },
+ {
+   "_id": "5bb65f8a4b565392022568f4",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-04T19:23:24.040Z",
+   "timestamp": "2018-10-01T12:45:01.000Z",
+   "video_file": "2018-10-01T12-45-01.mp4"
+ },
+ {
+   "_id": "5bb686024b5653920225b9fd",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-04T21:28:33.697Z",
+   "timestamp": "2018-10-01T13:00:02.000Z",
+   "video_file": "2018-10-01T13-00-02.mp4"
+ },
+ {
+   "_id": "5bb7075f4b5653920228397b",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-05T06:45:53.667Z",
+   "timestamp": "2018-10-01T15:15:02.000Z",
+   "video_file": "2018-10-01T15-15-02.mp4"
+ },
+ {
+   "_id": "5bb70ee54b56539202284ade",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-05T07:12:36.889Z",
+   "timestamp": "2018-10-01T12:45:02.000Z",
+   "video_file": "2018-10-01T12-45-02.mp4"
+ },
+ {
+   "_id": "5bb715524b5653920228551a",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-05T07:40:01.607Z",
+   "timestamp": "2018-10-01T13:00:01.000Z",
+   "video_file": "2018-10-01T13-00-01.mp4"
+ },
+ {
+   "_id": "5bb74da44b5653920229902d",
+   "cam_id": 179,
+   "entry_count": 2,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-05T11:41:10.151Z",
+   "timestamp": "2018-10-01T14:45:02.000Z",
+   "video_file": "2018-10-01T14-45-02.mp4"
+ },
+ {
+   "_id": "5bb7702f4b5653920229d7b6",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-05T14:08:54.963Z",
+   "timestamp": "2018-10-01T15:50:44.000Z",
+   "video_file": "2018-10-01T15-50-44.mp4"
+ },
+ {
+   "_id": "5bb7e33a4b565392022a8764",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-05T22:19:41.945Z",
+   "timestamp": "2018-10-01T22:30:02.000Z",
+   "video_file": "2018-10-01T22-30-02.mp4"
+ },
+ {
+   "_id": "5bb7ef784b565392022a9c0b",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-05T23:10:47.710Z",
+   "timestamp": "2018-10-01T23:00:01.000Z",
+   "video_file": "2018-10-01T23-00-01.mp4"
+ },
+ {
+   "_id": "5bb7fb764b565392022ab046",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-06T00:01:57.145Z",
+   "timestamp": "2018-10-01T23:30:02.000Z",
+   "video_file": "2018-10-01T23-30-02.mp4"
+ },
+ {
+   "_id": "5bb80acd4b565392022acaf8",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T01:09:39.844Z",
+   "timestamp": "2018-10-02T00:00:00.000Z",
+   "video_file": "2018-10-02T00-00-00.mp4"
+ },
+ {
+   "_id": "5bb8128d4b565392022ad854",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T01:40:51.166Z",
+   "timestamp": "2018-10-02T00:15:00.000Z",
+   "video_file": "2018-10-02T00-15-00.mp4"
+ },
+ {
+   "_id": "5bb819c94b565392022ae42e",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-06T02:11:19.915Z",
+   "timestamp": "2018-10-02T00:30:01.000Z",
+   "video_file": "2018-10-02T00-30-01.mp4"
+ },
+ {
+   "_id": "5bb821464b565392022af0a0",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-06T02:48:52.676Z",
+   "timestamp": "2018-10-01T21:45:01.000Z",
+   "video_file": "2018-10-01T21-45-01.mp4"
+ },
+ {
+   "_id": "5bb831bd4b565392022b0e17",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-06T03:53:32.560Z",
+   "timestamp": "2018-10-02T01:15:00.000Z",
+   "video_file": "2018-10-02T01-15-00.mp4"
+ },
+ {
+   "_id": "5bb8380f4b565392022b1a38",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T04:20:30.715Z",
+   "timestamp": "2018-10-02T01:30:02.000Z",
+   "video_file": "2018-10-02T01-30-02.mp4"
+ },
+ {
+   "_id": "5bb83d714b565392022b24ac",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T04:45:00.229Z",
+   "timestamp": "2018-10-02T01:45:01.000Z",
+   "video_file": "2018-10-02T01-45-01.mp4"
+ },
+ {
+   "_id": "5bb844154b565392022b3208",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-06T05:11:52.167Z",
+   "timestamp": "2018-10-02T02:00:00.000Z",
+   "video_file": "2018-10-02T02-00-00.mp4"
+ },
+ {
+   "_id": "5bb84dbf4b565392022b438a",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T05:53:02.067Z",
+   "timestamp": "2018-10-01T23:30:03.000Z",
+   "video_file": "2018-10-01T23-30-03.mp4"
+ },
+ {
+   "_id": "5bb859dd4b565392022b616c",
+   "cam_id": 179,
+   "entry_count": 3,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-06T06:45:06.465Z",
+   "timestamp": "2018-10-01T23:45:02.000Z",
+   "video_file": "2018-10-01T23-45-02.mp4"
+ },
+ {
+   "_id": "5bb85e294b565392022b6c17",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-06T07:05:28.398Z",
+   "timestamp": "2018-10-02T02:45:01.000Z",
+   "video_file": "2018-10-02T02-45-01.mp4"
+ },
+ {
+   "_id": "5bb8622b4b565392022b7450",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-06T07:20:10.280Z",
+   "timestamp": "2018-10-02T00:00:00.000Z",
+   "video_file": "2018-10-02T00-00-00.mp4"
+ },
+ {
+   "_id": "5bb864804b565392022b7988",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T07:30:07.466Z",
+   "timestamp": "2018-10-02T03:00:02.000Z",
+   "video_file": "2018-10-02T03-00-02.mp4"
+ },
+ {
+   "_id": "5bb86a924b565392022b849f",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-06T08:03:27.335Z",
+   "timestamp": "2018-10-02T03:15:02.000Z",
+   "video_file": "2018-10-02T03-15-02.mp4"
+ },
+ {
+   "_id": "5bb86fce4b565392022b8f19",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T08:18:25.676Z",
+   "timestamp": "2018-10-02T00:30:01.000Z",
+   "video_file": "2018-10-02T00-30-01.mp4"
+ },
+ {
+   "_id": "5bb871e14b565392022b943e",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T08:33:37.663Z",
+   "timestamp": "2018-10-02T03:30:00.000Z",
+   "video_file": "2018-10-02T03-30-00.mp4"
+ },
+ {
+   "_id": "5bb875c24b565392022b9c16",
+   "cam_id": 179,
+   "entry_count": 2,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-06T08:46:38.010Z",
+   "timestamp": "2018-10-02T00:45:02.000Z",
+   "video_file": "2018-10-02T00-45-02.mp4"
+ },
+ {
+   "_id": "5bb8795c4b565392022ba30d",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-06T09:03:21.048Z",
+   "timestamp": "2018-10-02T03:45:00.000Z",
+   "video_file": "2018-10-02T03-45-00.mp4"
+ },
+ {
+   "_id": "5bb87cdb4b565392022baa98",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T09:17:18.506Z",
+   "timestamp": "2018-10-02T01:00:00.000Z",
+   "video_file": "2018-10-02T01-00-00.mp4"
+ },
+ {
+   "_id": "5bb8815e4b565392022bb2bb",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-06T09:33:17.206Z",
+   "timestamp": "2018-10-02T04:00:01.000Z",
+   "video_file": "2018-10-02T04-00-01.mp4"
+ },
+ {
+   "_id": "5bb885144b565392022bb971",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-06T09:49:07.123Z",
+   "timestamp": "2018-10-02T01:15:00.000Z",
+   "video_file": "2018-10-02T01-15-00.mp4"
+ },
+ {
+   "_id": "5bb88cb14b565392022bcae1",
+   "cam_id": 179,
+   "entry_count": 3,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-06T10:30:16.501Z",
+   "timestamp": "2018-10-02T01:30:02.000Z",
+   "video_file": "2018-10-02T01-30-02.mp4"
+ },
+ {
+   "_id": "5bb891974b565392022bd5bd",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T10:47:01.544Z",
+   "timestamp": "2018-10-02T04:30:03.000Z",
+   "video_file": "2018-10-02T04-30-03.mp4"
+ },
+ {
+   "_id": "5bb894e44b565392022bdcbf",
+   "cam_id": 179,
+   "entry_count": 2,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T11:00:51.748Z",
+   "timestamp": "2018-10-02T01:45:01.000Z",
+   "video_file": "2018-10-02T01-45-01.mp4"
+ },
+ {
+   "_id": "5bb899494b565392022be549",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T11:20:54.919Z",
+   "timestamp": "2018-10-02T04:45:02.000Z",
+   "video_file": "2018-10-02T04-45-02.mp4"
+ },
+ {
+   "_id": "5bb89da84b565392022bed80",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T11:37:31.992Z",
+   "timestamp": "2018-10-02T02:00:01.000Z",
+   "video_file": "2018-10-02T02-00-01.mp4"
+ },
+ {
+   "_id": "5bb8a0dd4b565392022bf39f",
+   "cam_id": 180,
+   "entry_count": 4,
+   "exit_count": 5,
+   "processed_timestamp": "2018-10-06T12:00:46.697Z",
+   "timestamp": "2018-10-02T05:00:01.000Z",
+   "video_file": "2018-10-02T05-00-01.mp4"
+ },
+ {
+   "_id": "5bb8a6634b565392022c02a5",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T12:11:14.302Z",
+   "timestamp": "2018-10-02T02:15:00.000Z",
+   "video_file": "2018-10-02T02-15-00.mp4"
+ },
+ {
+   "_id": "5bb8ab9e4b565392022c0bc4",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-06T12:33:41.769Z",
+   "timestamp": "2018-10-02T05:15:01.000Z",
+   "video_file": "2018-10-02T05-15-01.mp4"
+ },
+ {
+   "_id": "5bb8adcc4b565392022c10e0",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-06T12:51:42.316Z",
+   "timestamp": "2018-10-02T02:30:01.000Z",
+   "video_file": "2018-10-02T02-30-01.mp4"
+ },
+ {
+   "_id": "5bb8b2214b565392022c1905",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-06T13:01:20.130Z",
+   "timestamp": "2018-10-02T05:30:02.000Z",
+   "video_file": "2018-10-02T05-30-02.mp4"
+ },
+ {
+   "_id": "5bb8bdb94b565392022c2da0",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T13:50:48.321Z",
+   "timestamp": "2018-10-02T03:00:02.000Z",
+   "video_file": "2018-10-02T03-00-02.mp4"
+ },
+ {
+   "_id": "5bb8c4634b565392022c39bf",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-06T14:19:13.706Z",
+   "timestamp": "2018-10-02T03:15:02.000Z",
+   "video_file": "2018-10-02T03-15-02.mp4"
+ },
+ {
+   "_id": "5bb8caa24b565392022c452f",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-06T14:49:03.704Z",
+   "timestamp": "2018-10-02T03:30:01.000Z",
+   "video_file": "2018-10-02T03-30-01.mp4"
+ },
+ {
+   "_id": "5bb8ceb34b565392022c4d24",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-06T15:08:15.490Z",
+   "timestamp": "2018-10-02T06:30:01.000Z",
+   "video_file": "2018-10-02T06-30-01.mp4"
+ },
+ {
+   "_id": "5bb8d3464b565392022c55c8",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T15:22:44.725Z",
+   "timestamp": "2018-10-02T03:45:00.000Z",
+   "video_file": "2018-10-02T03-45-00.mp4"
+ },
+ {
+   "_id": "5bb8d64a4b565392022c5b65",
+   "cam_id": 180,
+   "entry_count": 3,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T15:41:52.383Z",
+   "timestamp": "2018-10-02T06:45:01.000Z",
+   "video_file": "2018-10-02T06-45-01.mp4"
+ },
+ {
+   "_id": "5bb8dd014b565392022c6910",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-06T16:11:23.241Z",
+   "timestamp": "2018-10-02T07:00:02.000Z",
+   "video_file": "2018-10-02T07-00-02.mp4"
+ },
+ {
+   "_id": "5bb8eb234b565392022c81bb",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T17:04:33.933Z",
+   "timestamp": "2018-10-02T07:30:00.000Z",
+   "video_file": "2018-10-02T07-30-00.mp4"
+ },
+ {
+   "_id": "5bb8ed9e4b565392022c86da",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-06T17:18:04.673Z",
+   "timestamp": "2018-10-02T04:45:02.000Z",
+   "video_file": "2018-10-02T04-45-02.mp4"
+ },
+ {
+   "_id": "5bb8f51e4b565392022c940f",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T17:47:08.754Z",
+   "timestamp": "2018-10-02T05:00:01.000Z",
+   "video_file": "2018-10-02T05-00-01.mp4"
+ },
+ {
+   "_id": "5bb8fac34b565392022c9f0b",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-06T18:19:18.552Z",
+   "timestamp": "2018-10-02T05:15:01.000Z",
+   "video_file": "2018-10-02T05-15-01.mp4"
+ },
+ {
+   "_id": "5bb902624b565392022cae05",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T18:43:44.502Z",
+   "timestamp": "2018-10-02T05:30:02.000Z",
+   "video_file": "2018-10-02T05-30-02.mp4"
+ },
+ {
+   "_id": "5bb909644b565392022cba76",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 5,
+   "processed_timestamp": "2018-10-06T19:18:50.551Z",
+   "timestamp": "2018-10-02T05:45:01.000Z",
+   "video_file": "2018-10-02T05-45-01.mp4"
+ },
+ {
+   "_id": "5bb90dd84b565392022cc55a",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-06T19:32:45.245Z",
+   "timestamp": "2018-10-02T08:45:03.000Z",
+   "video_file": "2018-10-02T08-45-03.mp4"
+ },
+ {
+   "_id": "5bb918014b565392022cd6cb",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T20:18:33.666Z",
+   "timestamp": "2018-10-02T06:15:02.000Z",
+   "video_file": "2018-10-02T06-15-02.mp4"
+ },
+ {
+   "_id": "5bb925e74b565392022cef55",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T21:15:18.181Z",
+   "timestamp": "2018-10-02T06:45:01.000Z",
+   "video_file": "2018-10-02T06-45-01.mp4"
+ },
+ {
+   "_id": "5bb9313c4b565392022d047b",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T22:03:38.617Z",
+   "timestamp": "2018-10-02T07:15:01.000Z",
+   "video_file": "2018-10-02T07-15-01.mp4"
+ },
+ {
+   "_id": "5bb934a44b565392022d0b8d",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-06T22:18:58.804Z",
+   "timestamp": "2018-10-02T10:15:00.000Z",
+   "video_file": "2018-10-02T10-15-00.mp4"
+ },
+ {
+   "_id": "5bb951c14b565392022d383f",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-07T00:22:23.344Z",
+   "timestamp": "2018-10-02T08:00:01.000Z",
+   "video_file": "2018-10-02T08-00-01.mp4"
+ },
+ {
+   "_id": "5bb9812a4b565392022e379f",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-07T03:44:40.821Z",
+   "timestamp": "2018-10-02T09:15:00.000Z",
+   "video_file": "2018-10-02T09-15-00.mp4"
+ },
+ {
+   "_id": "5bb9885d4b565392022e43d3",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-07T04:20:14.817Z",
+   "timestamp": "2018-10-02T09:30:00.000Z",
+   "video_file": "2018-10-02T09-30-00.mp4"
+ },
+ {
+   "_id": "5bb9917d4b565392022e52ce",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-07T04:54:19.048Z",
+   "timestamp": "2018-10-02T09:45:01.000Z",
+   "video_file": "2018-10-02T09-45-01.mp4"
+ },
+ {
+   "_id": "5bb99aa24b565392022e6238",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-07T05:33:20.670Z",
+   "timestamp": "2018-10-02T10:00:01.000Z",
+   "video_file": "2018-10-02T10-00-01.mp4"
+ },
+ {
+   "_id": "5bb9a19b4b565392022e6e9d",
+   "cam_id": 179,
+   "entry_count": 2,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-07T06:21:00.717Z",
+   "timestamp": "2018-10-02T10:15:02.000Z",
+   "video_file": "2018-10-02T10-15-02.mp4"
+ },
+ {
+   "_id": "5bb9c8554b565392022eae9f",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-07T08:48:19.756Z",
+   "timestamp": "2018-10-02T11:00:00.000Z",
+   "video_file": "2018-10-02T11-00-00.mp4"
+ },
+ {
+   "_id": "5bb9d5ab4b565392022ec4bf",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-07T09:53:52.194Z",
+   "timestamp": "2018-10-02T11:15:02.000Z",
+   "video_file": "2018-10-02T11-15-02.mp4"
+ },
+ {
+   "_id": "5bb9e9c74b565392023101c5",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-07T11:11:01.161Z",
+   "timestamp": "2018-10-02T11:30:01.000Z",
+   "video_file": "2018-10-02T11-30-01.mp4"
+ },
+ {
+   "_id": "5bba13f64b5653920231cbf0",
+   "cam_id": 179,
+   "entry_count": 3,
+   "exit_count": 4,
+   "processed_timestamp": "2018-10-07T14:20:06.918Z",
+   "timestamp": "2018-10-02T12:45:00.000Z",
+   "video_file": "2018-10-02T12-45-00.mp4"
+ },
+ {
+   "_id": "5bbae6394b56539202333e39",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-08T05:12:06.215Z",
+   "timestamp": "2018-10-02T23:15:01.000Z",
+   "video_file": "2018-10-02T23-15-01.mp4"
+ },
+ {
+   "_id": "5bbafa0f4b565392023363d6",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-08T06:32:46.782Z",
+   "timestamp": "2018-10-03T00:00:00.000Z",
+   "video_file": "2018-10-03T00-00-00.mp4"
+ },
+ {
+   "_id": "5bbb00054b56539202336f9f",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-08T07:02:18.422Z",
+   "timestamp": "2018-10-03T00:15:00.000Z",
+   "video_file": "2018-10-03T00-15-00.mp4"
+ },
+ {
+   "_id": "5bbb09614b56539202338162",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-08T07:38:08.911Z",
+   "timestamp": "2018-10-03T00:30:00.000Z",
+   "video_file": "2018-10-03T00-30-00.mp4"
+ },
+ {
+   "_id": "5bbb10d94b56539202338f35",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-08T08:10:07.182Z",
+   "timestamp": "2018-10-03T00:45:01.000Z",
+   "video_file": "2018-10-03T00-45-01.mp4"
+ },
+ {
+   "_id": "5bbb1d104b5653920233a8f3",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-08T09:02:07.996Z",
+   "timestamp": "2018-10-03T01:15:02.000Z",
+   "video_file": "2018-10-03T01-15-02.mp4"
+ },
+ {
+   "_id": "5bbb23964b5653920233b5cd",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-08T09:29:58.100Z",
+   "timestamp": "2018-10-03T01:30:01.000Z",
+   "video_file": "2018-10-03T01-30-01.mp4"
+ },
+ {
+   "_id": "5bbb26a94b5653920233bc55",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-08T09:43:05.223Z",
+   "timestamp": "2018-10-02T22:30:01.000Z",
+   "video_file": "2018-10-02T22-30-01.mp4"
+ },
+ {
+   "_id": "5bbb29fd4b5653920233c36e",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-08T09:57:16.950Z",
+   "timestamp": "2018-10-03T01:45:00.000Z",
+   "video_file": "2018-10-03T01-45-00.mp4"
+ },
+ {
+   "_id": "5bbb2e284b5653920233cbf3",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-08T10:15:03.764Z",
+   "timestamp": "2018-10-02T22:45:00.000Z",
+   "video_file": "2018-10-02T22-45-00.mp4"
+ },
+ {
+   "_id": "5bbb30df4b5653920233d23f",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-08T10:26:38.543Z",
+   "timestamp": "2018-10-03T02:00:02.000Z",
+   "video_file": "2018-10-03T02-00-02.mp4"
+ },
+ {
+   "_id": "5bbb35eb4b5653920233ddce",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-08T10:48:10.506Z",
+   "timestamp": "2018-10-03T02:15:01.000Z",
+   "video_file": "2018-10-03T02-15-01.mp4"
+ },
+ {
+   "_id": "5bbb39c44b5653920233e559",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-08T11:05:53.350Z",
+   "timestamp": "2018-10-02T23:15:01.000Z",
+   "video_file": "2018-10-02T23-15-01.mp4"
+ },
+ {
+   "_id": "5bbb3d684b5653920233eea8",
+   "cam_id": 180,
+   "entry_count": 4,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-08T11:24:44.364Z",
+   "timestamp": "2018-10-03T02:30:01.000Z",
+   "video_file": "2018-10-03T02-30-01.mp4"
+ },
+ {
+   "_id": "5bbb41dd4b5653920233f983",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-08T11:41:24.994Z",
+   "timestamp": "2018-10-02T23:30:00.000Z",
+   "video_file": "2018-10-02T23-30-00.mp4"
+ },
+ {
+   "_id": "5bbb44eb4b565392023400c7",
+   "cam_id": 180,
+   "entry_count": 2,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-08T11:52:11.849Z",
+   "timestamp": "2018-10-03T02:45:02.000Z",
+   "video_file": "2018-10-03T02-45-02.mp4"
+ },
+ {
+   "_id": "5bbb4abf4b56539202340d66",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-08T12:20:57.502Z",
+   "timestamp": "2018-10-03T03:00:01.000Z",
+   "video_file": "2018-10-03T03-00-01.mp4"
+ },
+ {
+   "_id": "5bbb515a4b56539202341afd",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-08T12:49:21.077Z",
+   "timestamp": "2018-10-03T03:15:00.000Z",
+   "video_file": "2018-10-03T03-15-00.mp4"
+ },
+ {
+   "_id": "5bbb54334b565392023420f1",
+   "cam_id": 179,
+   "entry_count": 3,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-08T13:01:21.720Z",
+   "timestamp": "2018-10-03T00:15:00.000Z",
+   "video_file": "2018-10-03T00-15-00.mp4"
+ },
+ {
+   "_id": "5bbb59074b56539202342b65",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-08T13:19:24.614Z",
+   "timestamp": "2018-10-03T03:30:00.000Z",
+   "video_file": "2018-10-03T03-30-00.mp4"
+ },
+ {
+   "_id": "5bbb5be04b565392023431f3",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 1,
+   "processed_timestamp": "2018-10-08T13:30:07.932Z",
+   "timestamp": "2018-10-03T00:30:02.000Z",
+   "video_file": "2018-10-03T00-30-02.mp4"
+ },
+ {
+   "_id": "5bbb5f4d4b56539202343aa5",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-08T13:45:10.796Z",
+   "timestamp": "2018-10-03T03:45:02.000Z",
+   "video_file": "2018-10-03T03-45-02.mp4"
+ },
+ {
+   "_id": "5bbb635a4b565392023443d1",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-08T14:02:01.910Z",
+   "timestamp": "2018-10-03T00:45:02.000Z",
+   "video_file": "2018-10-03T00-45-02.mp4"
+ },
+ {
+   "_id": "5bbb66e14b56539202344afd",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-08T14:21:46.364Z",
+   "timestamp": "2018-10-03T04:00:01.000Z",
+   "video_file": "2018-10-03T04-00-01.mp4"
+ },
+ {
+   "_id": "5bbb6c1c4b565392023456b7",
+   "cam_id": 179,
+   "entry_count": null,
+   "exit_count": 2,
+   "processed_timestamp": "2018-10-08T14:42:14.621Z",
+   "timestamp": "2018-10-03T01:00:00.000Z",
+   "video_file": "2018-10-03T01-00-00.mp4"
+ },
+ {
+   "_id": "5bbb6f2b4b56539202345e1b",
+   "cam_id": 180,
+   "entry_count": null,
+   "exit_count": 3,
+   "processed_timestamp": "2018-10-08T14:59:06.438Z",
+   "timestamp": "2018-10-03T04:15:02.000Z",
+   "video_file": "2018-10-03T04-15-02.mp4"
+ },
+ {
+   "_id": "5bbb72b14b5653920234674f",
+   "cam_id": 179,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-08T15:07:28.604Z",
+   "timestamp": "2018-10-03T01:15:02.000Z",
+   "video_file": "2018-10-03T01-15-02.mp4"
+ },
+ {
+   "_id": "5bbb76764b56539202346f94",
+   "cam_id": 180,
+   "entry_count": 1,
+   "exit_count": null,
+   "processed_timestamp": "2018-10-08T15:23:34.018Z",
+   "timestamp": "2018-10-03T04:30:01.000Z",
+   "video_file": "2018-10-03T04-30-01.mp4"
+ }
+]
