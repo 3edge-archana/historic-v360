@@ -51,71 +51,49 @@ function renderChart(params) {
             var browserInfo = GetBrowserInfo();
             var isFirefox = browserInfo.startsWith('Firefox')
 
-            var lastTimeStamp = attrs.data.visitorCountCent[attrs.data.visitorCountCent.length - 1].timestamp;
-            var lastTimeStampClone = new Date(lastTimeStamp);
-            var minutes = lastTimeStampClone.getMinutes() - 15;
-            lastTimeStampClone.setMinutes(minutes);
-            // modified on 16-10-2018
-            var lastTimeStamp2 = attrs.data.entryCountNew[attrs.data.entryCountNew.length - 1].timestamp;
-            var lastTimeStampClone2 = new Date(lastTimeStamp2);
-            var dateN = lastTimeStampClone2.getDate();
-            lastTimeStampClone2.setHours('00');
-            lastTimeStampClone2.setMinutes('00');
-            lastTimeStampClone2.setSeconds('00');
-            // modified on 16-10-2018
-            // modified on 17-10-2018
-            var lastTimeStamp3 = attrs.data.washRoomCountData[attrs.data.washRoomCountData.length - 1].timestamp;
-            var lastTimeStampClone3 = new Date(lastTimeStamp3);
-            var dateN3 = lastTimeStampClone3.getDate();
-            lastTimeStampClone3.setHours('00');
-            lastTimeStampClone3.setMinutes('00');
-            lastTimeStampClone3.setSeconds('00');
-            // modified on 17-10-2018
-
-            var lastTimeStamp4 = attrs.data.visitorInfo[attrs.data.visitorInfo.length - 1].timestamp;
-            var filteredVisitorData = attrs.data.visitorInfo;
-            var filteredwashRoomCountData = attrs.data.washRoomCountData.filter(d => d.timestamp > lastTimeStampClone3);
-            // modified on 16-10-2018
-            // var filteredentryCountNew = attrs.data.entryCountNew;
-            var filteredentryCountNew = attrs.data.entryCountNew.filter(d => d.timestamp > lastTimeStampClone2);
-            console.log(filteredentryCountNew);
-            // modified on 16-10-2018
-            var filteredvisitorCountCent = attrs.data.visitorCountCent.filter(d => d.timestamp > lastTimeStampClone);
-
+            
+            
+            // count current date
+            var lastTimeStampNewCurr = new Date();            
+            lastTimeStampNewCurr.setHours('00');
+            lastTimeStampNewCurr.setMinutes('00');
+            lastTimeStampNewCurr.setSeconds('00');
+            // -----------------------------
+            var filteredvisitorCountCent = attrs.data.visitorCountCent.filter(d => d.timestamp > lastTimeStampNewCurr);
+            //-----------------------------
+            var filteredentryCountNew = attrs.data.entryCountNew.filter(d => d.timestamp > lastTimeStampNewCurr);
+            // ----------------------------           
+            var filteredwashRoomCountData = attrs.data.washRoomCountData.filter(d => d.timestamp > lastTimeStampNewCurr);
+            // ------------------------------           
+            var filteredVisitorData = attrs.data.visitorInfo.filter(d => d.timestamp > lastTimeStampNewCurr);
 
 
             if (attrs.isUpdate) {
-                var sliderFilterDate = new Date(lastTimeStamp4);
-
+                var sliderFilterDate = new Date();
                 if (attrs.slider1SelectedValue.xVal != undefined) {
                     if (attrs.slider1SelectedValue.x == 0) {
-                        sliderFilterDate.setDate(sliderFilterDate.getDate() - 1)
+                        sliderFilterDate.setDate(sliderFilterDate.getDate() - 1);
                     }
                     if (attrs.slider1SelectedValue.xVal == 1) {
-                        sliderFilterDate.setDate(sliderFilterDate.getDate() - 7)
+                        sliderFilterDate.setDate(sliderFilterDate.getDate() - 7);
                     }
                     if (attrs.slider1SelectedValue.xVal == 2) {
-                        sliderFilterDate.setDate(sliderFilterDate.getDate() - 30)
+                        sliderFilterDate.setDate(sliderFilterDate.getDate() - 30);
                     }
                     if (attrs.slider1SelectedValue.xVal == 3) {
-                        sliderFilterDate.setDate(sliderFilterDate.getDate() - 365)
+                        sliderFilterDate.setDate(sliderFilterDate.getDate() - 365);
                     }
-
-                    filteredVisitorData = filteredVisitorData.filter(d => d.timestamp > sliderFilterDate);
-                    //filteredwashRoomCountData = filteredwashRoomCountData.filter(d => d.timestamp > sliderFilterDate);;
-                    // modified on 16-10-2018
-                    //filteredentryCountNew = filteredentryCountNew.filter(d => d.timestamp > sliderFilterDate);
-                    // modified on 16-10-2018
+                    filteredVisitorData = attrs.data.visitorInfo.filter(d => d.timestamp > sliderFilterDate);
+                    filteredwashRoomCountData = attrs.data.washRoomCountData.filter(d => d.timestamp > sliderFilterDate);
+                    filteredentryCountNew = attrs.data.entryCountNew.filter(d => d.timestamp > sliderFilterDate);
 
                 }
 
                 if (attrs.slider2SelectedValue.xVal != undefined) {
 
                     filteredVisitorData = filteredVisitorData.filter(d => d.timestamp.getHours() < attrs.slider2SelectedValue.xVal * 2);
-                    //filteredwashRoomCountData = filteredwashRoomCountData.filter(d => d.timestamp.getHours() < attrs.slider2SelectedValue.xVal * 2);
-                    // modified on 16-10-2018
-                    //filteredentryCountNew = filteredentryCountNew.filter(d => d.timestamp.getHours() < attrs.slider2SelectedValue.xVal * 2);
-                    // modified on 16-10-2018
+                    filteredwashRoomCountData = filteredwashRoomCountData.filter(d => d.timestamp.getHours() < attrs.slider2SelectedValue.xVal * 2);
+                    filteredentryCountNew = filteredentryCountNew.filter(d => d.timestamp.getHours() < attrs.slider2SelectedValue.xVal * 2);
                 }
 
             }
