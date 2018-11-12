@@ -54,7 +54,7 @@ function renderChart(params) {
             
             
             // count current date
-            var lastTimeStampNewCurr = new Date();            
+            var lastTimeStampNewCurr = new Date();           
             lastTimeStampNewCurr.setHours('00');
             lastTimeStampNewCurr.setMinutes('00');
             lastTimeStampNewCurr.setSeconds('00');
@@ -689,8 +689,12 @@ function renderChart(params) {
                     .attr('x', 10)
                     .attr('y', (d, i) => (i + 1) * 27 - 2)
                     .attr('fill', 'white');
-
-
+            
+            /**line chart group start**/
+            var lineChart = chart.patternify({tag: 'g', selector: 'line-chart'})
+                    .attr('transform', 'translate(' + 50 + ',' + 1200 + ')').attr('id','lineChart');
+            /**line chart group end**/
+            
             var groupHeader = chart.patternify({tag: 'g', selector: 'dashboard-headermain'})
                     .attr('transform', 'translate(' + 0 + ',' + 0 + ')').attr('id','headerMain');
             var groupHRect = groupHeader.patternify({tag: 'rect', selector: 'dashboard-headerR'})
@@ -912,6 +916,58 @@ function renderChart(params) {
                     .attr('font-family', attrs.textFont)
                     .attr('stroke', attrs.textFontSize)
                     .attr('fill', attrs.textColor);
+
+//            var lineChart = chart.patternify({tag: 'g', selector: 'line-chart'})
+//                    .attr('transform', 'translate(' + 50 + ',' + 1200 + ')').attr('id','lineChart');
+            /***************line graph creation start*****************/
+            var width = calc.chartWidth;
+            var height = calc.chartHeight;
+//            console.log("width", width);
+//            console.log("height", height);
+            var x = d3.scaleTime().rangeRound([0, 500]);
+            
+            var y = d3.scaleLinear().rangeRound([400, 0]);
+
+            var line = d3.line()
+                    .curve(d3.curveBasis)
+                    .x(function (d) {
+                        return x(d.date)
+                    })
+                    .y(function (d) {
+                        return y(d.value)
+                    })
+            x.domain(d3.extent(attrs.data.linechartData, function (d) {
+                return d.date
+            }));
+            y.domain(d3.extent(attrs.data.linechartData, function (d) {
+                return d.value
+            }));
+            
+            lineChart.append("g")
+                    .attr("transform", "translate(0,400)")
+                    .call(d3.axisBottom(x))
+                    .select(".domain")
+                    .remove();
+
+            lineChart.append("g")
+                    .call(d3.axisLeft(y))
+                    .append("text")
+                    .attr("fill", "#000")
+                    .attr("transform", "rotate(-90)")
+                    .attr("y", 6)
+                    .attr("dy", "0.71em")
+                    .attr("text-anchor", "end")
+                    .text("Price ($)");
+
+            lineChart.append("path")
+                    .datum(attrs.data.linechartData)
+                    .attr("fill", "none")
+                    .attr("stroke", "steelblue")
+                    .attr("stroke-linejoin", "round")
+                    .attr("stroke-linecap", "round")
+                    .attr("stroke-width", 1.5)
+                    .attr("d", line);
+            /***************line graph creation end*****************/
 
             function dragged1(value) {
 

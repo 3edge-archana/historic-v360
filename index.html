@@ -102,17 +102,39 @@
 
                                     d3.csv("./assets/data/NewData/1. Emotix_db.entry_count_new.csv")
                                             .then(function (data3) {
-                                                console.log("data3", data3);
+//                                                var currentDate = '';
+//                                                var count = 0;
+                                                var mappedData = [];
+                                                mappedData["count"] = 0;
+                                                mappedData["date"] = "";
                                                 entryCountNew = data3.map(function (d) {
-                                                    return {
-                                                        id: d["_id"],
-                                                        cam_id: d["cam_id"],
-                                                        entryCount: d["entry_count"],
-//                                                        exitCount: d["exit_count"],
-                                                        timestamp: d["timestamp"] != 'undefined' ? new Date(d["timestamp"]) : new Date(),
+//                                                    console.log(typeof mappedData["count"]);
+//                                                    console.log(mappedData["date"]);
+                                                    var dateObj = new Date(d["timestamp"]);
+                                                    var month = dateObj.getUTCMonth() + 1; //months from 1-12
+                                                    var day = dateObj.getUTCDate();
+                                                    var year = dateObj.getUTCFullYear();
+                                                    var newdate = year + "-" + month + "-" + day;
+                                                    if(mappedData['date'] != "" && mappedData['date'] == newdate){                                                        
+                                                        mappedData["count"] = parseInt(mappedData["count"]) + parseInt(d["entry_count"]);
+                                                        console.log("count", mappedData["count"]);
+//                                                        mappedData['count'] = count
+                                                        mappedData['date'] = newdate;
                                                     }
+                                                    
+//                                                    console.log("mappedData", mappedData);
+                                                    mappedData['date'] = newdate;
+                                                    return mappedData;
+//                                                    console.log("newdate", newdate);
+//                                                    return {
+////                                                        id: d["_id"],
+////                                                        cam_id: d["cam_id"],
+//                                                        entryCount: d["entry_count"],
+////                                                        exitCount: d["exit_count"],
+//                                                        timestamp: newdate//d["timestamp"] != 'undefined' ? new Date(d["timestamp"]) : new Date(),
+//                                                    }
                                                 })
-
+//                                                console.log("entryCountNew", entryCountNew);
 
                                                 d3.csv("./assets/data/NewData/5. Emotix_db.washroom_entry_count_new.csv")
                                                         .then(function (data4) {
@@ -136,19 +158,33 @@
                                                                             }
                                                                         })
 
-                                                                        params.visitorInfo = visitorInfo;
-                                                                        params.washRoomCountData = washRoomCountData;
-                                                                        params.feedData = feedData;
-                                                                        params.visitorCountCent = visitorCountCent;
-                                                                        params.entryCountNew = entryCountNew;
+                                                                        var api = 'https://api.coindesk.com/v1/bpi/historical/close.json?start=2018-03-15&end=2018-04-21';
 
-                                                                        var chart = renderChart()
-                                                                                .svgWidth(window.innerWidth)
-                                                                                .svgHeight(1575)
-                                                                                .container('#myGraph')
-                                                                                .data(params)
-                                                                                .debug(true)
-                                                                                .run(false)
+                                                                            fetch(api)
+                                                                                    .then(function (response) {
+                                                                                        return response.json();
+                                                                                    })
+                                                                                    .then(function (data) {
+                                                                                        var parsedData = parseData(data);
+//                                                                                        console.log(parsedData);
+                                                                                        params.visitorInfo = visitorInfo;
+                                                                                        params.washRoomCountData = washRoomCountData;
+                                                                                        params.feedData = feedData;
+                                                                                        params.visitorCountCent = visitorCountCent;
+                                                                                        params.entryCountNew = entryCountNew;
+                                                                                        params.linechartData = parsedData;
+                                                                                        
+                                                                                        var chart = renderChart()
+                                                                                                .svgWidth(window.innerWidth)
+//                                                                                                .svgHeight(1575)
+                                                                                                .svgHeight(2500)
+                                                                                                .container('#myGraph')
+                                                                                                .data(params)
+                                                                                                .debug(true)
+                                                                                                .run(false)
+                                                                                                    })
+
+                                                                        
 
 
                                                                     })
@@ -156,6 +192,21 @@
                                             })
                                 })
                     })
+
+
+
+
+            function parseData(data) {
+                var arr = [];
+                for (var i in data.bpi) {
+                    arr.push(
+                            {
+                                date: new Date(i), //date
+                                value: +data.bpi[i] //convert string to number
+                            });
+                }
+                return arr;
+            }
             // ------------------------------ csv version  end ------------------------------------------------------
 
             // -----------------------------  json version -----------------------------------------------------
@@ -277,33 +328,33 @@
             // -----------------------------  json version end  -----------------------------------------------------    
         </script>
         <script type="text/ecmascript">
-    function getScrollXY() {
-      var scrOfX = 0, scrOfY = 0;
-      if( typeof( window.pageYOffset ) == 'number' ) {
-        //Netscape compliant
-        scrOfY = window.pageYOffset;
-        scrOfX = window.pageXOffset;
-      } else if( document.body && ( document.body.scrollLeft || document.body.scrollTop ) ) {
-        //DOM compliant
-        scrOfY = document.body.scrollTop;
-        scrOfX = document.body.scrollLeft;
-      } else if( document.documentElement && ( document.documentElement.scrollLeft || document.documentElement.scrollTop ) ) {
-        //IE6 standards compliant mode
-        scrOfY = document.documentElement.scrollTop;
-        scrOfX = document.documentElement.scrollLeft;
-      }
-      return [ scrOfX, scrOfY ];
-    }
+            function getScrollXY() {
+            var scrOfX = 0, scrOfY = 0;
+            if( typeof( window.pageYOffset ) == 'number' ) {
+            //Netscape compliant
+            scrOfY = window.pageYOffset;
+            scrOfX = window.pageXOffset;
+            } else if( document.body && ( document.body.scrollLeft || document.body.scrollTop ) ) {
+            //DOM compliant
+            scrOfY = document.body.scrollTop;
+            scrOfX = document.body.scrollLeft;
+            } else if( document.documentElement && ( document.documentElement.scrollLeft || document.documentElement.scrollTop ) ) {
+            //IE6 standards compliant mode
+            scrOfY = document.documentElement.scrollTop;
+            scrOfX = document.documentElement.scrollLeft;
+            }
+            return [ scrOfX, scrOfY ];
+            }
 
-    function moveFixed(evt)
-    {
-      var scrollpos = getScrollXY();
-      var fixed = document.getElementById("headerMain");
-      var tfm = fixed.transform.baseVal.getItem(0);
-      tfm.setTranslate(scrollpos[0], scrollpos[1]);
-    }
+            function moveFixed(evt)
+            {
+            var scrollpos = getScrollXY();
+            var fixed = document.getElementById("headerMain");
+            var tfm = fixed.transform.baseVal.getItem(0);
+            tfm.setTranslate(scrollpos[0], scrollpos[1]);
+            }
 
-    window.onscroll = moveFixed;
+            window.onscroll = moveFixed;
         </script>
     </body>
 </html>
